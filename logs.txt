@@ -1,0 +1,2307 @@
+2025-05-09 09:03:48 - Fetching workout with UserId: 28
+2025-05-09 09:04:07 - Error occurred while fetching workout with UserId: 28. Exception: Object reference not set to an instance of an object. | StackTrace:    at WorkoutService.Controllers.WorkoutController.GetWorkoutByUserId(Int32 userId) in C:\Users\harshit.patidar\Desktop\FitnessApp\WorkoutService\Controllers\WorkoutsController.cs:line 73
+2025-05-09 09:04:29 - Fetching workout with UserId: 28
+2025-05-09 09:05:04 - Error occurred while fetching workout with UserId: 28. Exception: Object reference not set to an instance of an object. | StackTrace:    at WorkoutService.Controllers.WorkoutController.GetWorkoutByUserId(Int32 userId) in C:\Users\harshit.patidar\Desktop\FitnessApp\WorkoutService\Controllers\WorkoutsController.cs:line 73
+2025-05-09 09:07:44 - Fetching workout with UserId: 28
+2025-05-09 09:07:44 - Fetching workout with UserId: 28 from repository.
+2025-05-09 09:07:44 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-09 09:07:47 - Successfully fetched workouts for UserId: 28
+2025-05-09 09:07:47 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-09 09:07:47 - Successfully fetched workout with UserId: 28
+2025-05-09 09:08:00 - Attempting to update workout with Id: 17
+2025-05-09 09:08:00 - Updating workout with Id: 17 in repository.
+2025-05-09 09:08:00 - Executing stored procedure: usp_UpdateWorkout for Id: 17
+2025-05-09 09:08:00 - Successfully updated workout with Id: 17
+2025-05-09 09:08:00 - Successfully updated workout with Id: 17 in repository.
+2025-05-09 09:08:00 - Successfully updated workout with Id: 17
+2025-05-09 09:08:22 - Fetching workout with UserId: 28
+2025-05-09 09:08:22 - Fetching workout with UserId: 28 from repository.
+2025-05-09 09:08:22 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-09 09:08:22 - Successfully fetched workouts for UserId: 28
+2025-05-09 09:08:22 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-09 09:08:22 - Successfully fetched workout with UserId: 28
+2025-05-09 09:08:41 - Fetching workout with UserId: 28
+2025-05-09 09:08:41 - Fetching workout with UserId: 28 from repository.
+2025-05-09 09:08:41 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-09 09:08:41 - Successfully fetched workouts for UserId: 28
+2025-05-09 09:08:41 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-09 09:08:41 - Successfully fetched workout with UserId: 28
+2025-05-09 09:09:05 - Fetching workout with UserId: 28
+2025-05-09 09:09:05 - Fetching workout with UserId: 28 from repository.
+2025-05-09 09:09:05 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-09 09:09:05 - Successfully fetched workouts for UserId: 28
+2025-05-09 09:09:05 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-09 09:09:05 - Successfully fetched workout with UserId: 28
+2025-05-09 09:09:27 - Fetching workout with UserId: 23
+2025-05-09 09:09:27 - Fetching workout with UserId: 23 from repository.
+2025-05-09 09:09:27 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-09 09:09:27 - Successfully fetched workouts for UserId: 23
+2025-05-09 09:09:27 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-09 09:09:27 - Successfully fetched workout with UserId: 23
+2025-05-09 09:09:46 - Fetching workout with UserId: 23
+2025-05-09 09:09:46 - Fetching workout with UserId: 23 from repository.
+2025-05-09 09:09:46 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-09 09:09:46 - Successfully fetched workouts for UserId: 23
+2025-05-09 09:09:46 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-09 09:09:46 - Successfully fetched workout with UserId: 23
+2025-05-09 09:09:56 - Starting to fetch all workouts.
+2025-05-09 09:09:56 - Fetching all workouts from repository.
+2025-05-09 09:09:56 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-09 09:09:56 - Successfully fetched all workouts from database.
+2025-05-09 09:09:56 - Successfully fetched workouts from repository.
+2025-05-09 09:09:56 - Successfully fetched all workouts.
+2025-05-09 09:10:32 - Fetching workout with UserId: 23
+2025-05-09 09:10:32 - Fetching workout with UserId: 23 from repository.
+2025-05-09 09:10:32 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-09 09:10:32 - Successfully fetched workouts for UserId: 23
+2025-05-09 09:10:32 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-09 09:10:32 - Successfully fetched workout with UserId: 23
+2025-05-09 09:16:39 - Fetching workout with UserId: 23
+2025-05-09 09:16:39 - Fetching workout with UserId: 23 from repository.
+2025-05-09 09:16:39 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-09 09:16:39 - Successfully fetched workouts for UserId: 23
+2025-05-09 09:16:39 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-09 09:16:39 - Successfully fetched workout with UserId: 23
+2025-05-09 09:17:23 - Starting to fetch all workouts.
+2025-05-09 09:17:23 - Fetching all workouts from repository.
+2025-05-09 09:17:23 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-09 09:17:23 - Successfully fetched all workouts from database.
+2025-05-09 09:17:23 - Successfully fetched workouts from repository.
+2025-05-09 09:17:23 - Successfully fetched all workouts.
+2025-05-09 09:18:19 - Fetching workout with UserId: 23
+2025-05-09 09:18:19 - Fetching workout with UserId: 23 from repository.
+2025-05-09 09:18:19 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-09 09:18:19 - Successfully fetched workouts for UserId: 23
+2025-05-09 09:18:19 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-09 09:18:19 - Successfully fetched workout with UserId: 23
+2025-05-09 09:26:45 - Starting to fetch all workouts.
+2025-05-09 09:26:45 - Fetching all workouts from repository.
+2025-05-09 09:26:45 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-09 09:26:45 - Successfully fetched all workouts from database.
+2025-05-09 09:26:45 - Successfully fetched workouts from repository.
+2025-05-09 09:26:45 - Successfully fetched all workouts.
+2025-05-09 09:31:06 - Starting to fetch all workouts.
+2025-05-09 09:31:06 - Fetching all workouts from repository.
+2025-05-09 09:31:06 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-09 09:31:06 - Successfully fetched all workouts from database.
+2025-05-09 09:31:06 - Successfully fetched workouts from repository.
+2025-05-09 09:31:06 - Successfully fetched all workouts.
+2025-05-09 09:34:11 - Fetching workout with UserId: 23
+2025-05-09 09:34:11 - Fetching workout with UserId: 23 from repository.
+2025-05-09 09:34:11 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-09 09:34:11 - Successfully fetched workouts for UserId: 23
+2025-05-09 09:34:11 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-09 09:34:11 - Successfully fetched workout with UserId: 23
+2025-05-09 09:34:14 - Fetching workout with UserId: 23
+2025-05-09 09:34:14 - Fetching workout with UserId: 23 from repository.
+2025-05-09 09:34:14 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-09 09:34:14 - Successfully fetched workouts for UserId: 23
+2025-05-09 09:34:14 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-09 09:34:14 - Successfully fetched workout with UserId: 23
+2025-05-09 09:34:15 - Starting to fetch all workouts.
+2025-05-09 09:34:15 - Fetching all workouts from repository.
+2025-05-09 09:34:15 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-09 09:34:15 - Successfully fetched all workouts from database.
+2025-05-09 09:34:15 - Successfully fetched workouts from repository.
+2025-05-09 09:34:15 - Successfully fetched all workouts.
+2025-05-09 09:34:27 - Fetching workout with UserId: 23
+2025-05-09 09:34:27 - Fetching workout with UserId: 23 from repository.
+2025-05-09 09:34:27 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-09 09:34:27 - Successfully fetched workouts for UserId: 23
+2025-05-09 09:34:27 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-09 09:34:27 - Successfully fetched workout with UserId: 23
+2025-05-09 10:05:46 - Fetching workout with UserId: 28
+2025-05-09 10:05:46 - Fetching workout with UserId: 28 from repository.
+2025-05-09 10:05:46 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-09 10:05:46 - Successfully fetched workouts for UserId: 28
+2025-05-09 10:05:46 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-09 10:05:47 - Successfully fetched workout with UserId: 28
+2025-05-09 10:06:41 - Attempting to update workout with Id: 17
+2025-05-09 10:06:41 - Updating workout with Id: 17 in repository.
+2025-05-09 10:06:41 - Executing stored procedure: usp_UpdateWorkout for Id: 17
+2025-05-09 10:06:41 - Successfully updated workout with Id: 17
+2025-05-09 10:06:41 - Successfully updated workout with Id: 17 in repository.
+2025-05-09 10:06:41 - Successfully updated workout with Id: 17
+2025-05-09 10:06:50 - Attempting to delete workout with Id: 18
+2025-05-09 10:06:50 - Fetching workout with Id: 18 from repository.
+2025-05-09 10:06:50 - Executing stored procedure: usp_GetWorkoutById for Id: 18
+2025-05-09 10:06:50 - Successfully fetched workout with Id: 18
+2025-05-09 10:06:50 - Successfully fetched workout with Id: 18 from repository.
+2025-05-09 10:06:50 - Deleting workout with Id: 18 from repository.
+2025-05-09 10:06:50 - Executing stored procedure: usp_DeleteWorkout for Id: 18
+2025-05-09 10:06:50 - Successfully deleted workout with Id: 18
+2025-05-09 10:06:50 - Successfully deleted workout with Id: 18 from repository.
+2025-05-09 10:06:50 - Successfully deleted workout with Id: 18
+2025-05-09 10:06:58 - Fetching workout with UserId: 28
+2025-05-09 10:06:58 - Fetching workout with UserId: 28 from repository.
+2025-05-09 10:06:58 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-09 10:06:58 - Successfully fetched workouts for UserId: 28
+2025-05-09 10:06:58 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-09 10:06:58 - Successfully fetched workout with UserId: 28
+2025-05-09 10:07:21 - Fetching workout with UserId: 28
+2025-05-09 10:07:21 - Fetching workout with UserId: 28 from repository.
+2025-05-09 10:07:21 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-09 10:07:21 - Successfully fetched workouts for UserId: 28
+2025-05-09 10:07:21 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-09 10:07:21 - Successfully fetched workout with UserId: 28
+2025-05-09 10:07:51 - Fetching workout with UserId: 28
+2025-05-09 10:07:51 - Fetching workout with UserId: 28 from repository.
+2025-05-09 10:07:51 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-09 10:07:51 - Successfully fetched workouts for UserId: 28
+2025-05-09 10:07:51 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-09 10:07:51 - Successfully fetched workout with UserId: 28
+2025-05-09 10:08:56 - Attempting to add a new workout with image.
+2025-05-09 10:08:56 - Adding new workout to repository. Id: 0
+2025-05-09 10:08:56 - Executing stored procedure: usp_AddWorkout for UserId: 28
+2025-05-09 10:08:56 - Workout added successfully for UserId: 28
+2025-05-09 10:08:56 - Successfully added workout with Id: 0 to repository.
+2025-05-09 10:08:56 - Successfully added workout with Id: 0
+2025-05-09 10:08:57 - Fetching workout with UserId: 28
+2025-05-09 10:08:57 - Fetching workout with UserId: 28 from repository.
+2025-05-09 10:08:57 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-09 10:08:58 - Successfully fetched workouts for UserId: 28
+2025-05-09 10:08:58 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-09 10:08:58 - Successfully fetched workout with UserId: 28
+2025-05-09 10:09:15 - Fetching workout with UserId: 23
+2025-05-09 10:09:15 - Fetching workout with UserId: 23 from repository.
+2025-05-09 10:09:15 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-09 10:09:15 - Successfully fetched workouts for UserId: 23
+2025-05-09 10:09:15 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-09 10:09:15 - Successfully fetched workout with UserId: 23
+2025-05-09 10:09:22 - Attempting to update workout with Id: 3
+2025-05-09 10:09:22 - Updating workout with Id: 3 in repository.
+2025-05-09 10:09:22 - Executing stored procedure: usp_UpdateWorkout for Id: 3
+2025-05-09 10:09:22 - Successfully updated workout with Id: 3
+2025-05-09 10:09:22 - Successfully updated workout with Id: 3 in repository.
+2025-05-09 10:09:22 - Successfully updated workout with Id: 3
+2025-05-09 10:09:27 - Fetching workout with UserId: 23
+2025-05-09 10:09:27 - Fetching workout with UserId: 23 from repository.
+2025-05-09 10:09:27 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-09 10:09:27 - Successfully fetched workouts for UserId: 23
+2025-05-09 10:09:27 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-09 10:09:27 - Successfully fetched workout with UserId: 23
+2025-05-09 10:09:29 - Starting to fetch all workouts.
+2025-05-09 10:09:29 - Fetching all workouts from repository.
+2025-05-09 10:09:29 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-09 10:09:29 - Successfully fetched all workouts from database.
+2025-05-09 10:09:29 - Successfully fetched workouts from repository.
+2025-05-09 10:09:29 - Successfully fetched all workouts.
+2025-05-09 10:56:38 - Fetching workout with UserId: 28
+2025-05-09 10:56:38 - Fetching workout with UserId: 28 from repository.
+2025-05-09 10:56:38 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-09 10:56:41 - Successfully fetched workouts for UserId: 28
+2025-05-09 10:56:41 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-09 10:56:41 - Successfully fetched workout with UserId: 28
+2025-05-09 10:56:56 - Attempting to update workout with Id: 17
+2025-05-09 10:56:56 - Updating workout with Id: 17 in repository.
+2025-05-09 10:56:56 - Executing stored procedure: usp_UpdateWorkout for Id: 17
+2025-05-09 10:56:56 - Successfully updated workout with Id: 17
+2025-05-09 10:56:56 - Successfully updated workout with Id: 17 in repository.
+2025-05-09 10:56:56 - Successfully updated workout with Id: 17
+2025-05-09 10:57:01 - Fetching workout with UserId: 28
+2025-05-09 10:57:01 - Fetching workout with UserId: 28 from repository.
+2025-05-09 10:57:01 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-09 10:57:01 - Successfully fetched workouts for UserId: 28
+2025-05-09 10:57:01 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-09 10:57:01 - Successfully fetched workout with UserId: 28
+2025-05-10 13:42:39 - Fetching workout with UserId: 28
+2025-05-10 13:42:39 - Fetching workout with UserId: 28 from repository.
+2025-05-10 13:42:39 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-10 13:42:44 - Successfully fetched workouts for UserId: 28
+2025-05-10 13:42:44 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-10 13:42:44 - Successfully fetched workout with UserId: 28
+2025-05-10 13:44:03 - Fetching workout with UserId: 28
+2025-05-10 13:44:03 - Fetching workout with UserId: 28 from repository.
+2025-05-10 13:44:03 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-10 13:44:03 - Successfully fetched workouts for UserId: 28
+2025-05-10 13:44:03 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-10 13:44:03 - Successfully fetched workout with UserId: 28
+2025-05-10 13:44:25 - Fetching workout with UserId: 23
+2025-05-10 13:44:25 - Fetching workout with UserId: 23 from repository.
+2025-05-10 13:44:25 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-10 13:44:25 - Successfully fetched workouts for UserId: 23
+2025-05-10 13:44:25 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-10 13:44:25 - Successfully fetched workout with UserId: 23
+2025-05-10 13:44:33 - Attempting to delete workout with Id: 3
+2025-05-10 13:44:33 - Fetching workout with Id: 3 from repository.
+2025-05-10 13:44:33 - Executing stored procedure: usp_GetWorkoutById for Id: 3
+2025-05-10 13:44:33 - Successfully fetched workout with Id: 3
+2025-05-10 13:44:33 - Successfully fetched workout with Id: 3 from repository.
+2025-05-10 13:44:33 - Deleting workout with Id: 3 from repository.
+2025-05-10 13:44:33 - Executing stored procedure: usp_DeleteWorkout for Id: 3
+2025-05-10 13:44:33 - Successfully deleted workout with Id: 3
+2025-05-10 13:44:33 - Successfully deleted workout with Id: 3 from repository.
+2025-05-10 13:44:33 - Successfully deleted workout with Id: 3
+2025-05-10 13:44:39 - Attempting to update workout with Id: 10
+2025-05-10 13:44:39 - Updating workout with Id: 10 in repository.
+2025-05-10 13:44:39 - Executing stored procedure: usp_UpdateWorkout for Id: 10
+2025-05-10 13:44:39 - Successfully updated workout with Id: 10
+2025-05-10 13:44:39 - Successfully updated workout with Id: 10 in repository.
+2025-05-10 13:44:39 - Successfully updated workout with Id: 10
+2025-05-10 13:44:48 - Starting to fetch all workouts.
+2025-05-10 13:44:48 - Fetching all workouts from repository.
+2025-05-10 13:44:48 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-10 13:44:48 - Successfully fetched all workouts from database.
+2025-05-10 13:44:48 - Successfully fetched workouts from repository.
+2025-05-10 13:44:48 - Successfully fetched all workouts.
+2025-05-10 13:45:31 - Starting to fetch all workouts.
+2025-05-10 13:45:31 - Fetching all workouts from repository.
+2025-05-10 13:45:31 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-10 13:45:31 - Successfully fetched all workouts from database.
+2025-05-10 13:45:31 - Successfully fetched workouts from repository.
+2025-05-10 13:45:31 - Successfully fetched all workouts.
+2025-05-10 13:45:33 - Fetching workout with UserId: 23
+2025-05-10 13:45:33 - Fetching workout with UserId: 23 from repository.
+2025-05-10 13:45:33 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-10 13:45:33 - Successfully fetched workouts for UserId: 23
+2025-05-10 13:45:33 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-10 13:45:33 - Successfully fetched workout with UserId: 23
+2025-05-12 07:13:38 - Fetching workout with UserId: 28
+2025-05-12 07:13:38 - Fetching workout with UserId: 28 from repository.
+2025-05-12 07:13:38 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-12 07:13:39 - Successfully fetched workouts for UserId: 28
+2025-05-12 07:13:39 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-12 07:13:39 - Successfully fetched workout with UserId: 28
+2025-05-12 07:13:48 - Fetching workout with UserId: 28
+2025-05-12 07:13:48 - Fetching workout with UserId: 28 from repository.
+2025-05-12 07:13:48 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-12 07:13:48 - Successfully fetched workouts for UserId: 28
+2025-05-12 07:13:48 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-12 07:13:48 - Successfully fetched workout with UserId: 28
+2025-05-12 07:13:53 - Fetching workout with UserId: 28
+2025-05-12 07:13:53 - Fetching workout with UserId: 28 from repository.
+2025-05-12 07:13:53 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-12 07:13:53 - Successfully fetched workouts for UserId: 28
+2025-05-12 07:13:53 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-12 07:13:53 - Successfully fetched workout with UserId: 28
+2025-05-12 07:15:20 - Fetching workout with UserId: 28
+2025-05-12 07:15:20 - Fetching workout with UserId: 28 from repository.
+2025-05-12 07:15:20 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-12 07:15:20 - Successfully fetched workouts for UserId: 28
+2025-05-12 07:15:20 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-12 07:15:20 - Successfully fetched workout with UserId: 28
+2025-05-12 07:15:25 - Fetching workout with UserId: 28
+2025-05-12 07:15:25 - Fetching workout with UserId: 28 from repository.
+2025-05-12 07:15:25 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-12 07:15:25 - Successfully fetched workouts for UserId: 28
+2025-05-12 07:15:25 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-12 07:15:25 - Successfully fetched workout with UserId: 28
+2025-05-12 07:16:32 - Attempting to add a new workout with image.
+2025-05-12 07:16:32 - Adding new workout to repository. Id: 0
+2025-05-12 07:16:32 - Executing stored procedure: usp_AddWorkout for UserId: 28
+2025-05-12 07:16:32 - Workout added successfully for UserId: 28
+2025-05-12 07:16:32 - Successfully added workout with Id: 0 to repository.
+2025-05-12 07:16:32 - Successfully added workout with Id: 0
+2025-05-12 07:16:33 - Fetching workout with UserId: 28
+2025-05-12 07:16:33 - Fetching workout with UserId: 28 from repository.
+2025-05-12 07:16:33 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-12 07:16:34 - Successfully fetched workouts for UserId: 28
+2025-05-12 07:16:34 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-12 07:16:34 - Successfully fetched workout with UserId: 28
+2025-05-12 07:16:56 - Attempting to add a new workout with image.
+2025-05-12 07:16:56 - Adding new workout to repository. Id: 0
+2025-05-12 07:16:56 - Executing stored procedure: usp_AddWorkout for UserId: 28
+2025-05-12 07:16:56 - Workout added successfully for UserId: 28
+2025-05-12 07:16:56 - Successfully added workout with Id: 0 to repository.
+2025-05-12 07:16:56 - Successfully added workout with Id: 0
+2025-05-12 07:16:57 - Fetching workout with UserId: 28
+2025-05-12 07:16:57 - Fetching workout with UserId: 28 from repository.
+2025-05-12 07:16:57 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-12 07:16:57 - Successfully fetched workouts for UserId: 28
+2025-05-12 07:16:57 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-12 07:16:57 - Successfully fetched workout with UserId: 28
+2025-05-12 07:17:07 - Attempting to delete workout with Id: 32
+2025-05-12 07:17:07 - Fetching workout with Id: 32 from repository.
+2025-05-12 07:17:07 - Executing stored procedure: usp_GetWorkoutById for Id: 32
+2025-05-12 07:17:07 - Successfully fetched workout with Id: 32
+2025-05-12 07:17:07 - Successfully fetched workout with Id: 32 from repository.
+2025-05-12 07:17:07 - Deleting workout with Id: 32 from repository.
+2025-05-12 07:17:07 - Executing stored procedure: usp_DeleteWorkout for Id: 32
+2025-05-12 07:17:07 - Successfully deleted workout with Id: 32
+2025-05-12 07:17:07 - Successfully deleted workout with Id: 32 from repository.
+2025-05-12 07:17:07 - Successfully deleted workout with Id: 32
+2025-05-12 07:17:08 - Attempting to delete workout with Id: 31
+2025-05-12 07:17:08 - Fetching workout with Id: 31 from repository.
+2025-05-12 07:17:08 - Executing stored procedure: usp_GetWorkoutById for Id: 31
+2025-05-12 07:17:08 - Successfully fetched workout with Id: 31
+2025-05-12 07:17:08 - Successfully fetched workout with Id: 31 from repository.
+2025-05-12 07:17:08 - Deleting workout with Id: 31 from repository.
+2025-05-12 07:17:08 - Executing stored procedure: usp_DeleteWorkout for Id: 31
+2025-05-12 07:17:08 - Successfully deleted workout with Id: 31
+2025-05-12 07:17:08 - Successfully deleted workout with Id: 31 from repository.
+2025-05-12 07:17:08 - Successfully deleted workout with Id: 31
+2025-05-12 07:17:10 - Attempting to delete workout with Id: 17
+2025-05-12 07:17:10 - Fetching workout with Id: 17 from repository.
+2025-05-12 07:17:10 - Executing stored procedure: usp_GetWorkoutById for Id: 17
+2025-05-12 07:17:10 - Successfully fetched workout with Id: 17
+2025-05-12 07:17:10 - Successfully fetched workout with Id: 17 from repository.
+2025-05-12 07:17:10 - Deleting workout with Id: 17 from repository.
+2025-05-12 07:17:10 - Executing stored procedure: usp_DeleteWorkout for Id: 17
+2025-05-12 07:17:10 - Successfully deleted workout with Id: 17
+2025-05-12 07:17:10 - Successfully deleted workout with Id: 17 from repository.
+2025-05-12 07:17:10 - Successfully deleted workout with Id: 17
+2025-05-12 07:18:14 - Attempting to add a new workout with image.
+2025-05-12 07:18:14 - Adding new workout to repository. Id: 0
+2025-05-12 07:18:14 - Executing stored procedure: usp_AddWorkout for UserId: 28
+2025-05-12 07:18:14 - Workout added successfully for UserId: 28
+2025-05-12 07:18:14 - Successfully added workout with Id: 0 to repository.
+2025-05-12 07:18:14 - Successfully added workout with Id: 0
+2025-05-12 07:18:15 - Fetching workout with UserId: 28
+2025-05-12 07:18:15 - Fetching workout with UserId: 28 from repository.
+2025-05-12 07:18:15 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-12 07:18:15 - Successfully fetched workouts for UserId: 28
+2025-05-12 07:18:15 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-12 07:18:15 - Successfully fetched workout with UserId: 28
+2025-05-12 07:18:24 - Fetching workout with UserId: 23
+2025-05-12 07:18:24 - Fetching workout with UserId: 23 from repository.
+2025-05-12 07:18:24 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 07:18:24 - Successfully fetched workouts for UserId: 23
+2025-05-12 07:18:24 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 07:18:24 - Successfully fetched workout with UserId: 23
+2025-05-12 07:18:39 - Attempting to add a new workout with image.
+2025-05-12 07:18:39 - Adding new workout to repository. Id: 0
+2025-05-12 07:18:39 - Executing stored procedure: usp_AddWorkout for UserId: 23
+2025-05-12 07:18:39 - Workout added successfully for UserId: 23
+2025-05-12 07:18:39 - Successfully added workout with Id: 0 to repository.
+2025-05-12 07:18:39 - Successfully added workout with Id: 0
+2025-05-12 07:18:40 - Fetching workout with UserId: 23
+2025-05-12 07:18:40 - Fetching workout with UserId: 23 from repository.
+2025-05-12 07:18:40 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 07:18:40 - Successfully fetched workouts for UserId: 23
+2025-05-12 07:18:40 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 07:18:40 - Successfully fetched workout with UserId: 23
+2025-05-12 07:18:54 - Attempting to add a new workout with image.
+2025-05-12 07:18:54 - Adding new workout to repository. Id: 0
+2025-05-12 07:18:54 - Executing stored procedure: usp_AddWorkout for UserId: 23
+2025-05-12 07:18:54 - Workout added successfully for UserId: 23
+2025-05-12 07:18:54 - Successfully added workout with Id: 0 to repository.
+2025-05-12 07:18:54 - Successfully added workout with Id: 0
+2025-05-12 07:18:56 - Fetching workout with UserId: 23
+2025-05-12 07:18:56 - Fetching workout with UserId: 23 from repository.
+2025-05-12 07:18:56 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 07:18:56 - Successfully fetched workouts for UserId: 23
+2025-05-12 07:18:56 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 07:18:56 - Successfully fetched workout with UserId: 23
+2025-05-12 07:19:45 - Attempting to add a new workout with image.
+2025-05-12 07:19:45 - Adding new workout to repository. Id: 0
+2025-05-12 07:19:45 - Executing stored procedure: usp_AddWorkout for UserId: 23
+2025-05-12 07:19:45 - Workout added successfully for UserId: 23
+2025-05-12 07:19:45 - Successfully added workout with Id: 0 to repository.
+2025-05-12 07:19:45 - Successfully added workout with Id: 0
+2025-05-12 07:19:46 - Fetching workout with UserId: 23
+2025-05-12 07:19:46 - Fetching workout with UserId: 23 from repository.
+2025-05-12 07:19:46 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 07:19:46 - Successfully fetched workouts for UserId: 23
+2025-05-12 07:19:46 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 07:19:46 - Successfully fetched workout with UserId: 23
+2025-05-12 07:19:47 - Attempting to delete workout with Id: 10
+2025-05-12 07:19:47 - Fetching workout with Id: 10 from repository.
+2025-05-12 07:19:47 - Executing stored procedure: usp_GetWorkoutById for Id: 10
+2025-05-12 07:19:47 - Successfully fetched workout with Id: 10
+2025-05-12 07:19:47 - Successfully fetched workout with Id: 10 from repository.
+2025-05-12 07:19:47 - Deleting workout with Id: 10 from repository.
+2025-05-12 07:19:47 - Executing stored procedure: usp_DeleteWorkout for Id: 10
+2025-05-12 07:19:47 - Successfully deleted workout with Id: 10
+2025-05-12 07:19:47 - Successfully deleted workout with Id: 10 from repository.
+2025-05-12 07:19:47 - Successfully deleted workout with Id: 10
+2025-05-12 07:19:48 - Attempting to delete workout with Id: 30
+2025-05-12 07:19:48 - Fetching workout with Id: 30 from repository.
+2025-05-12 07:19:48 - Executing stored procedure: usp_GetWorkoutById for Id: 30
+2025-05-12 07:19:48 - Successfully fetched workout with Id: 30
+2025-05-12 07:19:48 - Successfully fetched workout with Id: 30 from repository.
+2025-05-12 07:19:48 - Deleting workout with Id: 30 from repository.
+2025-05-12 07:19:48 - Executing stored procedure: usp_DeleteWorkout for Id: 30
+2025-05-12 07:19:48 - Successfully deleted workout with Id: 30
+2025-05-12 07:19:48 - Successfully deleted workout with Id: 30 from repository.
+2025-05-12 07:19:48 - Successfully deleted workout with Id: 30
+2025-05-12 07:20:54 - Attempting to add a new workout with image.
+2025-05-12 07:20:54 - Adding new workout to repository. Id: 0
+2025-05-12 07:20:54 - Executing stored procedure: usp_AddWorkout for UserId: 23
+2025-05-12 07:20:54 - Workout added successfully for UserId: 23
+2025-05-12 07:20:54 - Successfully added workout with Id: 0 to repository.
+2025-05-12 07:20:54 - Successfully added workout with Id: 0
+2025-05-12 07:20:55 - Fetching workout with UserId: 23
+2025-05-12 07:20:55 - Fetching workout with UserId: 23 from repository.
+2025-05-12 07:20:55 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 07:20:55 - Successfully fetched workouts for UserId: 23
+2025-05-12 07:20:55 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 07:20:55 - Successfully fetched workout with UserId: 23
+2025-05-12 07:41:23 - Fetching workout with UserId: 23
+2025-05-12 07:41:23 - Fetching workout with UserId: 23 from repository.
+2025-05-12 07:41:23 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 07:41:23 - Successfully fetched workouts for UserId: 23
+2025-05-12 07:41:23 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 07:41:23 - Successfully fetched workout with UserId: 23
+2025-05-12 07:41:26 - Starting to fetch all workouts.
+2025-05-12 07:41:26 - Fetching all workouts from repository.
+2025-05-12 07:41:26 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 07:41:27 - Successfully fetched all workouts from database.
+2025-05-12 07:41:27 - Successfully fetched workouts from repository.
+2025-05-12 07:41:27 - Successfully fetched all workouts.
+2025-05-12 11:38:16 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedBy":10}
+2025-05-12 11:40:11 - Received message: {"Action":"Activate User","UserId":28,"InitiatedBy":10}
+2025-05-12 14:05:52 - Received message: {"Action":"Activate User","UserId":28,"InitiatedBy":2}
+2025-05-12 14:06:29 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 14:06:47 - Error updating workouts IsActive status with Id: 28. Exception: Must declare the scalar variable "@@IsActive". | StackTrace:    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__210_1(IAsyncResult result)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQueryAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQueryAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQueryAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.ExecuteSqlRawAsync(DatabaseFacade databaseFacade, String sql, IEnumerable`1 parameters, CancellationToken cancellationToken)
+   at WorkoutService.Repository.WorkoutRepository.SoftDeleteWorkoutsByUserAsync(Int32 userId, Int32 updatedById, Int32 isActive) in C:\Users\harshit.patidar\Desktop\FitnessApp\WorkoutService\Repository\WorkoutRepository.cs:line 49
+2025-05-12 14:06:47 - Error while processing queue: Must declare the scalar variable "@@IsActive".
+2025-05-12 14:07:57 - Received message: {"Action":"Activate User","UserId":28,"InitiatedBy":2}
+2025-05-12 14:08:59 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 14:09:33 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 14:22:01 - Received message: {"Action":"Activate User","UserId":28,"InitiatedBy":12}
+2025-05-12 14:24:27 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 14:24:33 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 14:24:59 - Error while processing queue: The specified message does not exist.
+RequestId:b89160ca-6292-4219-b5be-aebf37fc4c75
+Time:2025-05-12T14:24:39.733Z
+Status: 404 (The specified message does not exist.)
+ErrorCode: MessageNotFound
+
+Content:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Error>
+  <Code>MessageNotFound</Code>
+  <Message>The specified message does not exist.
+RequestId:b89160ca-6292-4219-b5be-aebf37fc4c75
+Time:2025-05-12T14:24:39.733Z</Message>
+</Error>
+
+Headers:
+Server: Azurite-Queue/3.34.0
+x-ms-error-code: MessageNotFound
+x-ms-request-id: b89160ca-6292-4219-b5be-aebf37fc4c75
+x-ms-version: 2025-05-05
+Date: Mon, 12 May 2025 14:24:39 GMT
+Connection: keep-alive
+Keep-Alive: REDACTED
+Transfer-Encoding: chunked
+Content-Type: application/xml
+
+2025-05-12 17:15:43 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedBy":12}
+2025-05-12 17:16:22 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 17:17:24 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 18:02:18 - Received message: {"Action":"Activate User","UserId":28,"InitiatedBy":2}
+2025-05-12 18:02:18 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 18:02:19 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 18:02:25 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":10,"ActionDateTime":"2025-05-12T17:48:19.9711877Z"}
+2025-05-12 18:02:25 - Error while processing queue: Cannot convert null to 'int' because it is a non-nullable value type
+2025-05-12 18:04:02 - Starting to fetch all workouts.
+2025-05-12 18:04:02 - Fetching all workouts from repository.
+2025-05-12 18:04:02 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:04:04 - Successfully fetched all workouts from database.
+2025-05-12 18:04:04 - Successfully fetched workouts from repository.
+2025-05-12 18:04:04 - Successfully fetched all workouts.
+2025-05-12 18:04:34 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":10,"ActionDateTime":"2025-05-12T17:48:19.9711877Z"}
+2025-05-12 18:04:34 - Error while processing queue: Cannot convert null to 'int' because it is a non-nullable value type
+2025-05-12 18:05:02 - Starting to fetch all workouts.
+2025-05-12 18:05:02 - Fetching all workouts from repository.
+2025-05-12 18:05:02 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:05:06 - Successfully fetched all workouts from database.
+2025-05-12 18:05:06 - Successfully fetched workouts from repository.
+2025-05-12 18:05:06 - Successfully fetched all workouts.
+2025-05-12 18:09:35 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":10,"ActionDateTime":"2025-05-12T17:48:19.9711877Z"}
+2025-05-12 18:09:36 - Error while processing queue: Cannot convert null to 'int' because it is a non-nullable value type
+2025-05-12 18:11:10 - Starting to fetch all workouts.
+2025-05-12 18:11:10 - Fetching all workouts from repository.
+2025-05-12 18:11:10 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:11:14 - Successfully fetched all workouts from database.
+2025-05-12 18:11:14 - Successfully fetched workouts from repository.
+2025-05-12 18:11:14 - Successfully fetched all workouts.
+2025-05-12 18:15:15 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":10,"ActionDateTime":"2025-05-12T18:13:18.539665Z"}
+2025-05-12 18:15:16 - Error while processing queue: Cannot convert null to 'int' because it is a non-nullable value type
+2025-05-12 18:18:28 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":10,"ActionDateTime":"2025-05-12T18:13:18.539665Z"}
+2025-05-12 18:19:27 - Error while processing queue: Cannot convert null to 'int' because it is a non-nullable value type
+2025-05-12 18:21:07 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":10,"ActionDateTime":"2025-05-12T18:13:18.539665Z"}
+2025-05-12 18:21:40 - Error while processing queue: Cannot convert null to 'int' because it is a non-nullable value type
+2025-05-12 18:22:41 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":10,"ActionDateTime":"2025-05-12T18:13:18.539665Z"}
+2025-05-12 18:22:43 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 18:22:47 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 18:23:19 - Starting to fetch all workouts.
+2025-05-12 18:23:19 - Fetching all workouts from repository.
+2025-05-12 18:23:19 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:23:20 - Successfully fetched all workouts from database.
+2025-05-12 18:23:20 - Successfully fetched workouts from repository.
+2025-05-12 18:23:20 - Successfully fetched all workouts.
+2025-05-12 18:24:01 - Fetching workout with Id: 22
+2025-05-12 18:24:01 - Fetching workout with Id: 22 from repository.
+2025-05-12 18:24:01 - Executing stored procedure: usp_GetWorkoutById for Id: 22
+2025-05-12 18:24:01 - Successfully fetched workout with Id: 22
+2025-05-12 18:24:01 - Successfully fetched workout with Id: 22 from repository.
+2025-05-12 18:24:01 - Workout with Id: 22 not found.
+2025-05-12 18:24:07 - Fetching workout with Id: 33
+2025-05-12 18:24:07 - Fetching workout with Id: 33 from repository.
+2025-05-12 18:24:07 - Executing stored procedure: usp_GetWorkoutById for Id: 33
+2025-05-12 18:24:07 - Successfully fetched workout with Id: 33
+2025-05-12 18:24:07 - Successfully fetched workout with Id: 33 from repository.
+2025-05-12 18:24:07 - Workout with Id: 33 not found.
+2025-05-12 18:24:19 - Fetching workout with Id: 34
+2025-05-12 18:24:19 - Fetching workout with Id: 34 from repository.
+2025-05-12 18:24:19 - Executing stored procedure: usp_GetWorkoutById for Id: 34
+2025-05-12 18:24:19 - Successfully fetched workout with Id: 34
+2025-05-12 18:24:19 - Successfully fetched workout with Id: 34 from repository.
+2025-05-12 18:24:19 - Workout with Id: 34 not found.
+2025-05-12 18:24:23 - Fetching workout with Id: 35
+2025-05-12 18:24:23 - Fetching workout with Id: 35 from repository.
+2025-05-12 18:24:23 - Executing stored procedure: usp_GetWorkoutById for Id: 35
+2025-05-12 18:24:23 - Successfully fetched workout with Id: 35
+2025-05-12 18:24:23 - Successfully fetched workout with Id: 35 from repository.
+2025-05-12 18:24:23 - Workout with Id: 35 not found.
+2025-05-12 18:24:29 - Fetching workout with Id: 36
+2025-05-12 18:24:29 - Fetching workout with Id: 36 from repository.
+2025-05-12 18:24:29 - Executing stored procedure: usp_GetWorkoutById for Id: 36
+2025-05-12 18:24:29 - Successfully fetched workout with Id: 36
+2025-05-12 18:24:29 - Successfully fetched workout with Id: 36 from repository.
+2025-05-12 18:24:29 - Successfully fetched workout with Id: 36
+2025-05-12 18:24:41 - Fetching workout with Id: 38
+2025-05-12 18:24:41 - Fetching workout with Id: 38 from repository.
+2025-05-12 18:24:41 - Executing stored procedure: usp_GetWorkoutById for Id: 38
+2025-05-12 18:24:41 - Successfully fetched workout with Id: 38
+2025-05-12 18:24:41 - Successfully fetched workout with Id: 38 from repository.
+2025-05-12 18:24:41 - Successfully fetched workout with Id: 38
+2025-05-12 18:24:50 - Fetching workout with UserId: 23
+2025-05-12 18:24:50 - Fetching workout with UserId: 23 from repository.
+2025-05-12 18:24:50 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 18:24:51 - Successfully fetched workouts for UserId: 23
+2025-05-12 18:24:51 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 18:24:51 - Successfully fetched workout with UserId: 23
+2025-05-12 18:24:57 - Fetching workout with UserId: 28
+2025-05-12 18:24:57 - Fetching workout with UserId: 28 from repository.
+2025-05-12 18:24:57 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-12 18:24:57 - Successfully fetched workouts for UserId: 28
+2025-05-12 18:24:57 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-12 18:24:57 - Successfully fetched workout with UserId: 28
+2025-05-12 18:28:16 - Fetching workout with UserId: 28
+2025-05-12 18:28:16 - Fetching workout with UserId: 28 from repository.
+2025-05-12 18:28:22 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-12 18:28:30 - Successfully fetched workouts for UserId: 28
+2025-05-12 18:29:14 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-12 18:29:14 - Successfully fetched workout with UserId: 28
+2025-05-12 18:31:00 - Fetching workout with UserId: 23
+2025-05-12 18:31:00 - Fetching workout with UserId: 23 from repository.
+2025-05-12 18:31:57 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 18:31:58 - Successfully fetched workouts for UserId: 23
+2025-05-12 18:31:58 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 18:31:58 - Successfully fetched workout with UserId: 23
+2025-05-12 18:32:08 - Fetching workout with UserId: 23
+2025-05-12 18:32:08 - Fetching workout with UserId: 23 from repository.
+2025-05-12 18:32:08 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 18:32:08 - Successfully fetched workouts for UserId: 23
+2025-05-12 18:32:08 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 18:32:08 - Successfully fetched workout with UserId: 23
+2025-05-12 18:32:23 - Fetching workout with UserId: 23
+2025-05-12 18:32:23 - Fetching workout with UserId: 23 from repository.
+2025-05-12 18:32:23 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 18:32:23 - Successfully fetched workouts for UserId: 23
+2025-05-12 18:32:23 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 18:32:23 - Successfully fetched workout with UserId: 23
+2025-05-12 18:32:27 - Fetching workout with UserId: 23
+2025-05-12 18:32:27 - Fetching workout with UserId: 23 from repository.
+2025-05-12 18:32:27 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 18:32:27 - Successfully fetched workouts for UserId: 23
+2025-05-12 18:32:27 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 18:32:27 - Successfully fetched workout with UserId: 23
+2025-05-12 18:32:29 - Fetching workout with UserId: 23
+2025-05-12 18:32:29 - Fetching workout with UserId: 23 from repository.
+2025-05-12 18:32:29 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 18:32:29 - Successfully fetched workouts for UserId: 23
+2025-05-12 18:32:29 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 18:32:29 - Successfully fetched workout with UserId: 23
+2025-05-12 18:32:32 - Fetching workout with UserId: 23
+2025-05-12 18:32:32 - Fetching workout with UserId: 23 from repository.
+2025-05-12 18:32:32 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 18:32:32 - Successfully fetched workouts for UserId: 23
+2025-05-12 18:32:32 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 18:32:32 - Successfully fetched workout with UserId: 23
+2025-05-12 18:32:34 - Fetching workout with UserId: 23
+2025-05-12 18:32:34 - Fetching workout with UserId: 23 from repository.
+2025-05-12 18:32:34 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 18:32:34 - Successfully fetched workouts for UserId: 23
+2025-05-12 18:32:34 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 18:32:34 - Successfully fetched workout with UserId: 23
+2025-05-12 18:32:38 - Fetching workout with UserId: 23
+2025-05-12 18:32:38 - Fetching workout with UserId: 23 from repository.
+2025-05-12 18:32:38 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 18:32:38 - Successfully fetched workouts for UserId: 23
+2025-05-12 18:32:38 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 18:32:38 - Successfully fetched workout with UserId: 23
+2025-05-12 18:32:41 - Fetching workout with UserId: 23
+2025-05-12 18:32:41 - Fetching workout with UserId: 23 from repository.
+2025-05-12 18:32:41 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 18:32:41 - Successfully fetched workouts for UserId: 23
+2025-05-12 18:32:41 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 18:32:41 - Successfully fetched workout with UserId: 23
+2025-05-12 18:32:46 - Fetching workout with UserId: 23
+2025-05-12 18:32:46 - Fetching workout with UserId: 23 from repository.
+2025-05-12 18:32:46 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 18:32:46 - Successfully fetched workouts for UserId: 23
+2025-05-12 18:32:46 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 18:32:46 - Successfully fetched workout with UserId: 23
+2025-05-12 18:33:41 - Starting to fetch all workouts.
+2025-05-12 18:33:41 - Fetching all workouts from repository.
+2025-05-12 18:33:41 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:33:41 - Successfully fetched all workouts from database.
+2025-05-12 18:33:41 - Successfully fetched workouts from repository.
+2025-05-12 18:33:41 - Successfully fetched all workouts.
+2025-05-12 18:34:06 - Starting to fetch all workouts.
+2025-05-12 18:34:06 - Fetching all workouts from repository.
+2025-05-12 18:34:06 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:34:06 - Successfully fetched all workouts from database.
+2025-05-12 18:34:06 - Successfully fetched workouts from repository.
+2025-05-12 18:34:06 - Successfully fetched all workouts.
+2025-05-12 18:35:29 - Starting to fetch all workouts.
+2025-05-12 18:35:29 - Fetching all workouts from repository.
+2025-05-12 18:35:29 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:35:29 - Successfully fetched all workouts from database.
+2025-05-12 18:35:29 - Successfully fetched workouts from repository.
+2025-05-12 18:35:29 - Successfully fetched all workouts.
+2025-05-12 18:35:31 - Starting to fetch all workouts.
+2025-05-12 18:35:31 - Fetching all workouts from repository.
+2025-05-12 18:35:31 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:35:31 - Successfully fetched all workouts from database.
+2025-05-12 18:35:31 - Successfully fetched workouts from repository.
+2025-05-12 18:35:31 - Successfully fetched all workouts.
+2025-05-12 18:35:37 - Starting to fetch all workouts.
+2025-05-12 18:35:37 - Fetching all workouts from repository.
+2025-05-12 18:35:37 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:35:37 - Successfully fetched all workouts from database.
+2025-05-12 18:35:37 - Successfully fetched workouts from repository.
+2025-05-12 18:35:37 - Successfully fetched all workouts.
+2025-05-12 18:35:39 - Starting to fetch all workouts.
+2025-05-12 18:35:39 - Fetching all workouts from repository.
+2025-05-12 18:35:39 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:35:39 - Successfully fetched all workouts from database.
+2025-05-12 18:35:39 - Successfully fetched workouts from repository.
+2025-05-12 18:35:39 - Successfully fetched all workouts.
+2025-05-12 18:36:05 - Starting to fetch all workouts.
+2025-05-12 18:36:05 - Fetching all workouts from repository.
+2025-05-12 18:36:05 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:36:05 - Successfully fetched all workouts from database.
+2025-05-12 18:36:05 - Successfully fetched workouts from repository.
+2025-05-12 18:36:05 - Successfully fetched all workouts.
+2025-05-12 18:36:07 - Fetching workout with UserId: 23
+2025-05-12 18:36:07 - Fetching workout with UserId: 23 from repository.
+2025-05-12 18:36:07 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 18:36:07 - Successfully fetched workouts for UserId: 23
+2025-05-12 18:36:07 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 18:36:07 - Successfully fetched workout with UserId: 23
+2025-05-12 18:36:23 - Fetching workout with UserId: 23
+2025-05-12 18:36:23 - Fetching workout with UserId: 23 from repository.
+2025-05-12 18:36:23 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 18:36:23 - Successfully fetched workouts for UserId: 23
+2025-05-12 18:36:23 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 18:36:23 - Successfully fetched workout with UserId: 23
+2025-05-12 18:36:25 - Starting to fetch all workouts.
+2025-05-12 18:36:25 - Fetching all workouts from repository.
+2025-05-12 18:36:25 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:36:25 - Successfully fetched all workouts from database.
+2025-05-12 18:36:25 - Successfully fetched workouts from repository.
+2025-05-12 18:36:25 - Successfully fetched all workouts.
+2025-05-12 18:36:26 - Starting to fetch all workouts.
+2025-05-12 18:36:26 - Fetching all workouts from repository.
+2025-05-12 18:36:26 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:36:26 - Successfully fetched all workouts from database.
+2025-05-12 18:36:26 - Successfully fetched workouts from repository.
+2025-05-12 18:36:26 - Successfully fetched all workouts.
+2025-05-12 18:36:31 - Starting to fetch all workouts.
+2025-05-12 18:36:31 - Fetching all workouts from repository.
+2025-05-12 18:36:31 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:36:31 - Successfully fetched all workouts from database.
+2025-05-12 18:36:31 - Successfully fetched workouts from repository.
+2025-05-12 18:36:31 - Successfully fetched all workouts.
+2025-05-12 18:37:34 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":10,"ActionDateTime":"2025-05-12T18:37:30.5803066Z"}
+2025-05-12 18:37:34 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 18:37:34 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 18:38:10 - Starting to fetch all workouts.
+2025-05-12 18:38:10 - Fetching all workouts from repository.
+2025-05-12 18:38:10 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:38:10 - Successfully fetched all workouts from database.
+2025-05-12 18:38:10 - Successfully fetched workouts from repository.
+2025-05-12 18:38:10 - Successfully fetched all workouts.
+2025-05-12 18:38:24 - Fetching workout with UserId: 28
+2025-05-12 18:38:24 - Fetching workout with UserId: 28 from repository.
+2025-05-12 18:38:24 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-12 18:38:24 - Successfully fetched workouts for UserId: 28
+2025-05-12 18:38:24 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-12 18:38:24 - Successfully fetched workout with UserId: 28
+2025-05-12 18:38:29 - Fetching workout with UserId: 28
+2025-05-12 18:38:29 - Fetching workout with UserId: 28 from repository.
+2025-05-12 18:38:29 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-12 18:38:29 - Successfully fetched workouts for UserId: 28
+2025-05-12 18:38:29 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-12 18:38:29 - Successfully fetched workout with UserId: 28
+2025-05-12 18:38:33 - Fetching workout with UserId: 28
+2025-05-12 18:38:33 - Fetching workout with UserId: 28 from repository.
+2025-05-12 18:38:33 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-12 18:38:33 - Successfully fetched workouts for UserId: 28
+2025-05-12 18:38:33 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-12 18:38:33 - Successfully fetched workout with UserId: 28
+2025-05-12 18:38:55 - Fetching workout with UserId: 28
+2025-05-12 18:38:55 - Fetching workout with UserId: 28 from repository.
+2025-05-12 18:38:55 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-12 18:38:55 - Successfully fetched workouts for UserId: 28
+2025-05-12 18:38:55 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-12 18:38:55 - Successfully fetched workout with UserId: 28
+2025-05-12 18:39:14 - Fetching workout with UserId: 23
+2025-05-12 18:39:14 - Fetching workout with UserId: 23 from repository.
+2025-05-12 18:39:14 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 18:39:14 - Successfully fetched workouts for UserId: 23
+2025-05-12 18:39:14 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 18:39:14 - Successfully fetched workout with UserId: 23
+2025-05-12 18:39:58 - Starting to fetch all workouts.
+2025-05-12 18:39:58 - Fetching all workouts from repository.
+2025-05-12 18:39:58 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 18:39:58 - Successfully fetched all workouts from database.
+2025-05-12 18:39:58 - Successfully fetched workouts from repository.
+2025-05-12 18:39:58 - Successfully fetched all workouts.
+2025-05-12 19:01:46 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:01:46.5371755Z"}
+2025-05-12 19:01:46 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:01:47 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:02:43 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:02:39.7357749Z"}
+2025-05-12 19:02:43 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:02:43 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:13:43 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:13:41.2375605Z"}
+2025-05-12 19:13:43 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:13:43 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:13:59 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:13:56.5735347Z"}
+2025-05-12 19:13:59 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:13:59 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:23:42 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:23:38.0991913Z"}
+2025-05-12 19:23:42 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:23:42 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:23:47 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:23:41.885967Z"}
+2025-05-12 19:23:47 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:23:47 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:23:52 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:23:49.9648621Z"}
+2025-05-12 19:23:52 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:23:52 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:27:33 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:27:32.4926649Z"}
+2025-05-12 19:27:33 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:27:33 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:27:48 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:27:43.98441Z"}
+2025-05-12 19:27:48 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:27:48 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:27:53 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:27:49.9517313Z"}
+2025-05-12 19:27:53 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:27:53 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:28:29 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:28:25.867864Z"}
+2025-05-12 19:28:29 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:28:29 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:33:08 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:33:06.1272302Z"}
+2025-05-12 19:33:08 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:33:08 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:33:13 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:33:12.5752569Z"}
+2025-05-12 19:33:13 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:33:14 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:33:24 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:33:21.5089947Z"}
+2025-05-12 19:33:24 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:33:24 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:35:46 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:35:42.885728Z"}
+2025-05-12 19:35:46 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:35:46 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:36:28 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:36:25.139459Z"}
+2025-05-12 19:36:28 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:36:28 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:36:53 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:36:48.8712863Z"}
+2025-05-12 19:36:53 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:36:53 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:38:34 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:38:31.8599356Z"}
+2025-05-12 19:38:34 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:38:34 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:39:50 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:39:49.4053377Z"}
+2025-05-12 19:39:50 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:39:51 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:42:43 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:42:39.864623Z"}
+2025-05-12 19:42:43 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:42:43 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:46:00 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:46:00.3588465Z"}
+2025-05-12 19:46:00 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:46:00 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:48:23 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:48:18.6250648Z"}
+2025-05-12 19:48:23 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:48:23 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:48:28 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:48:23.1566534Z"}
+2025-05-12 19:48:28 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:48:28 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:49:18 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:49:17.1492669Z"}
+2025-05-12 19:49:18 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:49:18 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:56:40 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:56:38.6421603Z"}
+2025-05-12 19:56:40 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:56:40 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:56:45 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T19:56:44.7438525Z"}
+2025-05-12 19:56:45 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 19:56:45 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 19:59:22 - Fetching workout with UserId: 23
+2025-05-12 19:59:22 - Fetching workout with UserId: 23 from repository.
+2025-05-12 19:59:22 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 19:59:22 - Successfully fetched workouts for UserId: 23
+2025-05-12 19:59:22 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 19:59:22 - Successfully fetched workout with UserId: 23
+2025-05-12 20:00:17 - Fetching workout with UserId: 23
+2025-05-12 20:00:17 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:00:17 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:00:17 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:00:17 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:00:17 - Successfully fetched workout with UserId: 23
+2025-05-12 20:07:23 - Fetching workout with UserId: 23
+2025-05-12 20:07:23 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:07:23 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:07:27 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:07:27 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:07:27 - Successfully fetched workout with UserId: 23
+2025-05-12 20:12:11 - Fetching workout with UserId: 23
+2025-05-12 20:12:11 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:12:11 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:12:11 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:12:11 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:12:11 - Successfully fetched workout with UserId: 23
+2025-05-12 20:12:15 - Fetching workout with UserId: 23
+2025-05-12 20:12:15 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:12:15 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:12:15 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:12:15 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:12:15 - Successfully fetched workout with UserId: 23
+2025-05-12 20:12:17 - Fetching workout with UserId: 23
+2025-05-12 20:12:17 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:12:17 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:12:17 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:12:17 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:12:17 - Successfully fetched workout with UserId: 23
+2025-05-12 20:12:28 - Starting to fetch all workouts.
+2025-05-12 20:12:28 - Fetching all workouts from repository.
+2025-05-12 20:12:28 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 20:12:28 - Successfully fetched all workouts from database.
+2025-05-12 20:12:28 - Successfully fetched workouts from repository.
+2025-05-12 20:12:28 - Successfully fetched all workouts.
+2025-05-12 20:12:35 - Fetching workout with UserId: 23
+2025-05-12 20:12:35 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:12:35 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:12:35 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:12:35 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:12:35 - Successfully fetched workout with UserId: 23
+2025-05-12 20:15:04 - Fetching workout with UserId: 23
+2025-05-12 20:15:04 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:15:04 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:15:04 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:15:04 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:15:05 - Successfully fetched workout with UserId: 23
+2025-05-12 20:15:06 - Fetching workout with UserId: 23
+2025-05-12 20:15:06 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:15:06 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:15:06 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:15:06 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:15:06 - Successfully fetched workout with UserId: 23
+2025-05-12 20:15:21 - Fetching workout with UserId: 23
+2025-05-12 20:15:21 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:15:21 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:15:21 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:15:21 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:15:21 - Successfully fetched workout with UserId: 23
+2025-05-12 20:15:59 - Fetching workout with UserId: 23
+2025-05-12 20:15:59 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:15:59 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:15:59 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:15:59 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:15:59 - Successfully fetched workout with UserId: 23
+2025-05-12 20:16:02 - Fetching workout with UserId: 23
+2025-05-12 20:16:02 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:16:02 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:16:02 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:16:02 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:16:02 - Successfully fetched workout with UserId: 23
+2025-05-12 20:16:16 - Attempting to update workout with Id: 36
+2025-05-12 20:16:16 - Updating workout with Id: 36 in repository.
+2025-05-12 20:16:16 - Executing stored procedure: usp_UpdateWorkout for Id: 36
+2025-05-12 20:16:16 - Successfully updated workout with Id: 36
+2025-05-12 20:16:16 - Successfully updated workout with Id: 36 in repository.
+2025-05-12 20:16:16 - Successfully updated workout with Id: 36
+2025-05-12 20:16:48 - Fetching workout with UserId: 23
+2025-05-12 20:16:48 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:16:48 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:16:49 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:16:49 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:16:49 - Successfully fetched workout with UserId: 23
+2025-05-12 20:16:53 - Fetching workout with UserId: 23
+2025-05-12 20:16:53 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:16:53 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:16:53 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:16:53 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:16:53 - Successfully fetched workout with UserId: 23
+2025-05-12 20:16:54 - Fetching workout with UserId: 23
+2025-05-12 20:16:54 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:16:54 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:16:54 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:16:54 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:16:54 - Successfully fetched workout with UserId: 23
+2025-05-12 20:16:58 - Attempting to update workout with Id: 36
+2025-05-12 20:16:58 - Updating workout with Id: 36 in repository.
+2025-05-12 20:16:58 - Executing stored procedure: usp_UpdateWorkout for Id: 36
+2025-05-12 20:16:58 - Successfully updated workout with Id: 36
+2025-05-12 20:16:58 - Successfully updated workout with Id: 36 in repository.
+2025-05-12 20:16:58 - Successfully updated workout with Id: 36
+2025-05-12 20:17:02 - Attempting to update workout with Id: 37
+2025-05-12 20:17:02 - Updating workout with Id: 37 in repository.
+2025-05-12 20:17:02 - Executing stored procedure: usp_UpdateWorkout for Id: 37
+2025-05-12 20:17:02 - Successfully updated workout with Id: 37
+2025-05-12 20:17:02 - Successfully updated workout with Id: 37 in repository.
+2025-05-12 20:17:02 - Successfully updated workout with Id: 37
+2025-05-12 20:17:05 - Attempting to update workout with Id: 38
+2025-05-12 20:17:05 - Updating workout with Id: 38 in repository.
+2025-05-12 20:17:05 - Executing stored procedure: usp_UpdateWorkout for Id: 38
+2025-05-12 20:17:05 - Successfully updated workout with Id: 38
+2025-05-12 20:17:05 - Successfully updated workout with Id: 38 in repository.
+2025-05-12 20:17:05 - Successfully updated workout with Id: 38
+2025-05-12 20:17:09 - Attempting to update workout with Id: 39
+2025-05-12 20:17:09 - Updating workout with Id: 39 in repository.
+2025-05-12 20:17:09 - Executing stored procedure: usp_UpdateWorkout for Id: 39
+2025-05-12 20:17:09 - Successfully updated workout with Id: 39
+2025-05-12 20:17:09 - Successfully updated workout with Id: 39 in repository.
+2025-05-12 20:17:09 - Successfully updated workout with Id: 39
+2025-05-12 20:17:14 - Attempting to update workout with Id: 36
+2025-05-12 20:17:14 - Updating workout with Id: 36 in repository.
+2025-05-12 20:17:14 - Executing stored procedure: usp_UpdateWorkout for Id: 36
+2025-05-12 20:17:14 - Successfully updated workout with Id: 36
+2025-05-12 20:17:14 - Successfully updated workout with Id: 36 in repository.
+2025-05-12 20:17:14 - Successfully updated workout with Id: 36
+2025-05-12 20:21:58 - Attempting to update workout with Id: 36
+2025-05-12 20:21:58 - Updating workout with Id: 36 in repository.
+2025-05-12 20:21:58 - Executing stored procedure: usp_UpdateWorkout for Id: 36
+2025-05-12 20:21:58 - Successfully updated workout with Id: 36
+2025-05-12 20:21:58 - Successfully updated workout with Id: 36 in repository.
+2025-05-12 20:21:58 - Successfully updated workout with Id: 36
+2025-05-12 20:22:01 - Attempting to update workout with Id: 37
+2025-05-12 20:22:01 - Updating workout with Id: 37 in repository.
+2025-05-12 20:22:01 - Executing stored procedure: usp_UpdateWorkout for Id: 37
+2025-05-12 20:22:01 - Successfully updated workout with Id: 37
+2025-05-12 20:22:01 - Successfully updated workout with Id: 37 in repository.
+2025-05-12 20:22:01 - Successfully updated workout with Id: 37
+2025-05-12 20:22:31 - Fetching workout with UserId: 23
+2025-05-12 20:22:31 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:22:31 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:22:31 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:22:31 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:22:31 - Successfully fetched workout with UserId: 23
+2025-05-12 20:22:42 - Fetching workout with UserId: 23
+2025-05-12 20:22:42 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:22:42 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:22:42 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:22:42 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:22:42 - Successfully fetched workout with UserId: 23
+2025-05-12 20:22:55 - Fetching workout with UserId: 23
+2025-05-12 20:22:55 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:22:55 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:22:55 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:22:55 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:22:55 - Successfully fetched workout with UserId: 23
+2025-05-12 20:23:35 - Starting to fetch all workouts.
+2025-05-12 20:23:35 - Fetching all workouts from repository.
+2025-05-12 20:23:35 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 20:23:35 - Successfully fetched all workouts from database.
+2025-05-12 20:23:35 - Successfully fetched workouts from repository.
+2025-05-12 20:23:35 - Successfully fetched all workouts.
+2025-05-12 20:24:19 - Fetching workout with UserId: 23
+2025-05-12 20:24:19 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:24:19 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:24:19 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:24:19 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:24:19 - Successfully fetched workout with UserId: 23
+2025-05-12 20:24:22 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-12T20:24:17.7860119Z"}
+2025-05-12 20:24:23 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-12 20:24:23 - Successfully updated workouts IsActive status with Id: 28
+2025-05-12 20:24:39 - Attempting to update workout with Id: 37
+2025-05-12 20:24:39 - Updating workout with Id: 37 in repository.
+2025-05-12 20:24:39 - Executing stored procedure: usp_UpdateWorkout for Id: 37
+2025-05-12 20:24:39 - Successfully updated workout with Id: 37
+2025-05-12 20:24:39 - Successfully updated workout with Id: 37 in repository.
+2025-05-12 20:24:39 - Successfully updated workout with Id: 37
+2025-05-12 20:25:34 - Fetching workout with UserId: 23
+2025-05-12 20:25:34 - Fetching workout with UserId: 23 from repository.
+2025-05-12 20:25:34 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-12 20:25:34 - Successfully fetched workouts for UserId: 23
+2025-05-12 20:25:34 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-12 20:25:34 - Successfully fetched workout with UserId: 23
+2025-05-12 20:25:49 - Starting to fetch all workouts.
+2025-05-12 20:25:49 - Fetching all workouts from repository.
+2025-05-12 20:25:49 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 20:25:49 - Successfully fetched all workouts from database.
+2025-05-12 20:25:49 - Successfully fetched workouts from repository.
+2025-05-12 20:25:49 - Successfully fetched all workouts.
+2025-05-12 20:27:20 - Starting to fetch all workouts.
+2025-05-12 20:27:20 - Fetching all workouts from repository.
+2025-05-12 20:27:20 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 20:27:20 - Successfully fetched all workouts from database.
+2025-05-12 20:27:20 - Successfully fetched workouts from repository.
+2025-05-12 20:27:20 - Successfully fetched all workouts.
+2025-05-12 20:27:48 - Starting to fetch all workouts.
+2025-05-12 20:27:48 - Fetching all workouts from repository.
+2025-05-12 20:27:48 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 20:27:48 - Successfully fetched all workouts from database.
+2025-05-12 20:27:48 - Successfully fetched workouts from repository.
+2025-05-12 20:27:48 - Successfully fetched all workouts.
+2025-05-12 20:27:57 - Starting to fetch all workouts.
+2025-05-12 20:27:57 - Fetching all workouts from repository.
+2025-05-12 20:27:57 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 20:27:57 - Successfully fetched all workouts from database.
+2025-05-12 20:27:57 - Successfully fetched workouts from repository.
+2025-05-12 20:27:57 - Successfully fetched all workouts.
+2025-05-12 20:28:30 - Starting to fetch all workouts.
+2025-05-12 20:28:30 - Fetching all workouts from repository.
+2025-05-12 20:28:30 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 20:28:30 - Successfully fetched all workouts from database.
+2025-05-12 20:28:30 - Successfully fetched workouts from repository.
+2025-05-12 20:28:30 - Successfully fetched all workouts.
+2025-05-12 20:28:37 - Starting to fetch all workouts.
+2025-05-12 20:28:37 - Fetching all workouts from repository.
+2025-05-12 20:28:37 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 20:28:38 - Successfully fetched all workouts from database.
+2025-05-12 20:28:38 - Successfully fetched workouts from repository.
+2025-05-12 20:28:38 - Successfully fetched all workouts.
+2025-05-12 20:29:34 - Starting to fetch all workouts.
+2025-05-12 20:29:34 - Fetching all workouts from repository.
+2025-05-12 20:29:34 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 20:29:34 - Successfully fetched all workouts from database.
+2025-05-12 20:29:34 - Successfully fetched workouts from repository.
+2025-05-12 20:29:34 - Successfully fetched all workouts.
+2025-05-12 20:29:37 - Starting to fetch all workouts.
+2025-05-12 20:29:37 - Fetching all workouts from repository.
+2025-05-12 20:29:37 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-12 20:29:37 - Successfully fetched all workouts from database.
+2025-05-12 20:29:37 - Successfully fetched workouts from repository.
+2025-05-12 20:29:37 - Successfully fetched all workouts.
+2025-05-13 05:54:18 - Fetching workout with UserId: 23
+2025-05-13 05:54:18 - Fetching workout with UserId: 23 from repository.
+2025-05-13 05:54:18 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-13 05:54:18 - Successfully fetched workouts for UserId: 23
+2025-05-13 05:54:18 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-13 05:54:18 - Successfully fetched workout with UserId: 23
+2025-05-13 05:54:27 - Attempting to update workout with Id: 36
+2025-05-13 05:54:27 - Updating workout with Id: 36 in repository.
+2025-05-13 05:54:27 - Executing stored procedure: usp_UpdateWorkout for Id: 36
+2025-05-13 05:54:27 - Successfully updated workout with Id: 36
+2025-05-13 05:54:27 - Successfully updated workout with Id: 36 in repository.
+2025-05-13 05:54:27 - Successfully updated workout with Id: 36
+2025-05-13 05:54:38 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T05:54:37.2533637Z"}
+2025-05-13 05:54:38 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 05:54:38 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:23:24 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:23:22.0543527Z"}
+2025-05-13 06:23:24 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:23:24 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:23:34 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:23:31.7201995Z"}
+2025-05-13 06:23:34 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:23:34 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:24:34 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:24:33.19235Z"}
+2025-05-13 06:24:34 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:24:34 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:29:06 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:29:02.8221302Z"}
+2025-05-13 06:29:06 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:29:06 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:29:51 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:29:50.7217246Z"}
+2025-05-13 06:29:51 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:29:51 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:31:06 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:31:06.7810421Z"}
+2025-05-13 06:31:06 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:31:06 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:31:57 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:31:55.7524494Z"}
+2025-05-13 06:31:57 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:31:57 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:33:02 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:33:01.1678621Z"}
+2025-05-13 06:33:02 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:33:02 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:34:07 - Received message: {"Action":"Activate User","UserId":23,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:34:04.3725851Z"}
+2025-05-13 06:34:07 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 23
+2025-05-13 06:34:07 - Successfully updated workouts IsActive status with Id: 23
+2025-05-13 06:34:17 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:34:13.3798688Z"}
+2025-05-13 06:34:17 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:34:17 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:37:58 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:37:55.1784747Z"}
+2025-05-13 06:37:58 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:37:58 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:42:14 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:42:10.6091376Z"}
+2025-05-13 06:42:14 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:42:15 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:42:55 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:42:51.7925417Z"}
+2025-05-13 06:42:55 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:42:55 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:43:10 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:43:09.6568962Z"}
+2025-05-13 06:43:10 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:43:10 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:43:15 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:43:15.2078804Z"}
+2025-05-13 06:43:15 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:43:15 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:43:25 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:43:21.5108934Z"}
+2025-05-13 06:43:25 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:43:25 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:43:30 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:43:26.800654Z"}
+2025-05-13 06:43:30 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:43:30 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:43:35 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:43:30.9572883Z"}
+2025-05-13 06:43:35 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:43:35 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:43:40 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:43:31.9995275Z"}
+2025-05-13 06:43:40 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:43:40 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:46:26 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:46:25.0159849Z"}
+2025-05-13 06:46:26 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:46:26 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:46:31 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:46:29.3042122Z"}
+2025-05-13 06:46:31 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:46:31 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:46:42 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:46:40.942462Z"}
+2025-05-13 06:46:42 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:46:42 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:46:52 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:46:47.2520039Z"}
+2025-05-13 06:46:52 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:46:52 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:47:07 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:47:04.6429207Z"}
+2025-05-13 06:47:07 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:47:07 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:50:33 - Starting to fetch all workouts.
+2025-05-13 06:50:33 - Fetching all workouts from repository.
+2025-05-13 06:50:33 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-13 06:50:33 - Successfully fetched all workouts from database.
+2025-05-13 06:50:33 - Successfully fetched workouts from repository.
+2025-05-13 06:50:33 - Successfully fetched all workouts.
+2025-05-13 06:50:53 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:50:50.1029134Z"}
+2025-05-13 06:50:53 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:50:53 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:51:03 - Starting to fetch all workouts.
+2025-05-13 06:51:03 - Fetching all workouts from repository.
+2025-05-13 06:51:03 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-13 06:51:03 - Successfully fetched all workouts from database.
+2025-05-13 06:51:03 - Successfully fetched workouts from repository.
+2025-05-13 06:51:03 - Successfully fetched all workouts.
+2025-05-13 06:51:18 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:51:18.2272195Z"}
+2025-05-13 06:51:18 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:51:18 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:51:33 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:51:28.6135209Z"}
+2025-05-13 06:51:33 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:51:33 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 06:52:08 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T06:52:04.2360903Z"}
+2025-05-13 06:52:08 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 06:52:08 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 07:02:32 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T07:02:27.3814851Z"}
+2025-05-13 07:02:32 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 07:02:32 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 07:03:27 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T07:03:24.140637Z"}
+2025-05-13 07:03:27 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 07:03:27 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 07:04:58 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T07:04:53.4025365Z"}
+2025-05-13 07:04:58 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 07:04:58 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 07:05:23 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T07:05:20.0249877Z"}
+2025-05-13 07:05:23 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 07:05:23 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 07:05:48 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T07:05:45.8563539Z"}
+2025-05-13 07:05:48 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 07:05:48 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 07:05:49 - Starting to fetch all workouts.
+2025-05-13 07:05:49 - Fetching all workouts from repository.
+2025-05-13 07:05:49 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-13 07:05:49 - Successfully fetched all workouts from database.
+2025-05-13 07:05:49 - Successfully fetched workouts from repository.
+2025-05-13 07:05:49 - Successfully fetched all workouts.
+2025-05-13 07:06:02 - Starting to fetch all workouts.
+2025-05-13 07:06:02 - Fetching all workouts from repository.
+2025-05-13 07:06:02 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-13 07:06:02 - Successfully fetched all workouts from database.
+2025-05-13 07:06:02 - Successfully fetched workouts from repository.
+2025-05-13 07:06:02 - Successfully fetched all workouts.
+2025-05-13 07:06:03 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T07:06:00.7919388Z"}
+2025-05-13 07:06:03 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 07:06:03 - Successfully updated workouts IsActive status with Id: 28
+2025-05-13 07:06:06 - Starting to fetch all workouts.
+2025-05-13 07:06:06 - Fetching all workouts from repository.
+2025-05-13 07:06:06 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-13 07:06:06 - Successfully fetched all workouts from database.
+2025-05-13 07:06:06 - Successfully fetched workouts from repository.
+2025-05-13 07:06:06 - Successfully fetched all workouts.
+2025-05-13 07:06:11 - Starting to fetch all workouts.
+2025-05-13 07:06:11 - Fetching all workouts from repository.
+2025-05-13 07:06:11 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-13 07:06:11 - Successfully fetched all workouts from database.
+2025-05-13 07:06:11 - Successfully fetched workouts from repository.
+2025-05-13 07:06:11 - Successfully fetched all workouts.
+2025-05-13 07:07:02 - Fetching workout with UserId: 29
+2025-05-13 07:07:02 - Fetching workout with UserId: 29 from repository.
+2025-05-13 07:07:02 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 29
+2025-05-13 07:07:02 - Successfully fetched workouts for UserId: 29
+2025-05-13 07:07:02 - Successfully fetched workout with UserId: 29 from repository.
+2025-05-13 07:07:02 - Successfully fetched workout with UserId: 29
+2025-05-13 07:07:30 - Fetching workout with UserId: 29
+2025-05-13 07:07:30 - Fetching workout with UserId: 29 from repository.
+2025-05-13 07:07:30 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 29
+2025-05-13 07:07:30 - Successfully fetched workouts for UserId: 29
+2025-05-13 07:07:30 - Successfully fetched workout with UserId: 29 from repository.
+2025-05-13 07:07:30 - Successfully fetched workout with UserId: 29
+2025-05-13 07:09:12 - Fetching workout with UserId: 29
+2025-05-13 07:09:12 - Fetching workout with UserId: 29 from repository.
+2025-05-13 07:09:12 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 29
+2025-05-13 07:09:12 - Successfully fetched workouts for UserId: 29
+2025-05-13 07:09:12 - Successfully fetched workout with UserId: 29 from repository.
+2025-05-13 07:09:12 - Successfully fetched workout with UserId: 29
+2025-05-13 07:10:14 - Fetching workout with UserId: 29
+2025-05-13 07:10:14 - Fetching workout with UserId: 29 from repository.
+2025-05-13 07:10:14 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 29
+2025-05-13 07:10:14 - Successfully fetched workouts for UserId: 29
+2025-05-13 07:10:14 - Successfully fetched workout with UserId: 29 from repository.
+2025-05-13 07:10:14 - Successfully fetched workout with UserId: 29
+2025-05-13 07:10:24 - Fetching workout with UserId: 28
+2025-05-13 07:10:24 - Fetching workout with UserId: 28 from repository.
+2025-05-13 07:10:24 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-13 07:10:25 - Successfully fetched workouts for UserId: 28
+2025-05-13 07:10:25 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-13 07:10:25 - Successfully fetched workout with UserId: 28
+2025-05-13 07:16:34 - Fetching workout with UserId: 28
+2025-05-13 07:16:34 - Fetching workout with UserId: 28 from repository.
+2025-05-13 07:16:34 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-13 07:16:34 - Successfully fetched workouts for UserId: 28
+2025-05-13 07:16:34 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-13 07:16:34 - Successfully fetched workout with UserId: 28
+2025-05-13 07:16:48 - Fetching workout with UserId: 29
+2025-05-13 07:16:48 - Fetching workout with UserId: 29 from repository.
+2025-05-13 07:16:48 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 29
+2025-05-13 07:16:48 - Successfully fetched workouts for UserId: 29
+2025-05-13 07:16:48 - Successfully fetched workout with UserId: 29 from repository.
+2025-05-13 07:16:48 - Successfully fetched workout with UserId: 29
+2025-05-13 07:16:52 - Fetching workout with UserId: 29
+2025-05-13 07:16:52 - Fetching workout with UserId: 29 from repository.
+2025-05-13 07:16:52 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 29
+2025-05-13 07:16:52 - Successfully fetched workouts for UserId: 29
+2025-05-13 07:16:52 - Successfully fetched workout with UserId: 29 from repository.
+2025-05-13 07:16:52 - Successfully fetched workout with UserId: 29
+2025-05-13 07:17:54 - Fetching workout with UserId: 29
+2025-05-13 07:17:54 - Fetching workout with UserId: 29 from repository.
+2025-05-13 07:17:54 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 29
+2025-05-13 07:17:54 - Successfully fetched workouts for UserId: 29
+2025-05-13 07:17:54 - Successfully fetched workout with UserId: 29 from repository.
+2025-05-13 07:17:54 - Successfully fetched workout with UserId: 29
+2025-05-13 07:18:12 - Fetching workout with UserId: 29
+2025-05-13 07:18:12 - Fetching workout with UserId: 29 from repository.
+2025-05-13 07:18:12 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 29
+2025-05-13 07:18:12 - Successfully fetched workouts for UserId: 29
+2025-05-13 07:18:12 - Successfully fetched workout with UserId: 29 from repository.
+2025-05-13 07:18:12 - Successfully fetched workout with UserId: 29
+2025-05-13 07:18:25 - Fetching workout with UserId: 29
+2025-05-13 07:18:25 - Fetching workout with UserId: 29 from repository.
+2025-05-13 07:18:25 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 29
+2025-05-13 07:18:25 - Successfully fetched workouts for UserId: 29
+2025-05-13 07:18:25 - Successfully fetched workout with UserId: 29 from repository.
+2025-05-13 07:18:25 - Successfully fetched workout with UserId: 29
+2025-05-13 07:18:36 - Fetching workout with UserId: 23
+2025-05-13 07:18:36 - Fetching workout with UserId: 23 from repository.
+2025-05-13 07:18:36 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-13 07:18:36 - Successfully fetched workouts for UserId: 23
+2025-05-13 07:18:36 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-13 07:18:36 - Successfully fetched workout with UserId: 23
+2025-05-13 07:20:20 - Fetching workout with UserId: 23
+2025-05-13 07:20:20 - Fetching workout with UserId: 23 from repository.
+2025-05-13 07:20:20 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-13 07:20:20 - Successfully fetched workouts for UserId: 23
+2025-05-13 07:20:20 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-13 07:20:20 - Successfully fetched workout with UserId: 23
+2025-05-13 07:20:23 - Starting to fetch all workouts.
+2025-05-13 07:20:23 - Fetching all workouts from repository.
+2025-05-13 07:20:23 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-13 07:20:23 - Successfully fetched all workouts from database.
+2025-05-13 07:20:23 - Successfully fetched workouts from repository.
+2025-05-13 07:20:23 - Successfully fetched all workouts.
+2025-05-13 07:31:49 - Fetching workout with UserId: 23
+2025-05-13 07:31:49 - Fetching workout with UserId: 23 from repository.
+2025-05-13 07:31:49 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-13 07:31:49 - Successfully fetched workouts for UserId: 23
+2025-05-13 07:31:49 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-13 07:31:49 - Successfully fetched workout with UserId: 23
+2025-05-13 07:32:02 - Fetching workout with UserId: 23
+2025-05-13 07:32:02 - Fetching workout with UserId: 23 from repository.
+2025-05-13 07:32:02 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-13 07:32:02 - Successfully fetched workouts for UserId: 23
+2025-05-13 07:32:02 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-13 07:32:02 - Successfully fetched workout with UserId: 23
+2025-05-13 09:06:08 - Fetching workout with UserId: 23
+2025-05-13 09:06:08 - Fetching workout with UserId: 23 from repository.
+2025-05-13 09:06:08 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-13 09:06:08 - Successfully fetched workouts for UserId: 23
+2025-05-13 09:06:08 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-13 09:06:08 - Successfully fetched workout with UserId: 23
+2025-05-13 09:26:31 - Fetching workout with UserId: 28
+2025-05-13 09:26:31 - Fetching workout with UserId: 28 from repository.
+2025-05-13 09:26:31 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-13 09:26:31 - Successfully fetched workouts for UserId: 28
+2025-05-13 09:26:31 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-13 09:26:31 - Successfully fetched workout with UserId: 28
+2025-05-13 09:26:36 - Fetching workout with UserId: 28
+2025-05-13 09:26:36 - Fetching workout with UserId: 28 from repository.
+2025-05-13 09:26:36 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-13 09:26:36 - Successfully fetched workouts for UserId: 28
+2025-05-13 09:26:36 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-13 09:26:36 - Successfully fetched workout with UserId: 28
+2025-05-13 09:41:24 - Fetching workout with UserId: 28
+2025-05-13 09:41:24 - Fetching workout with UserId: 28 from repository.
+2025-05-13 09:41:24 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-13 09:41:25 - Successfully fetched workouts for UserId: 28
+2025-05-13 09:41:25 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-13 09:41:25 - Successfully fetched workout with UserId: 28
+2025-05-13 09:52:01 - Fetching workout with UserId: 28
+2025-05-13 09:52:01 - Fetching workout with UserId: 28 from repository.
+2025-05-13 09:52:01 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-13 09:52:01 - Successfully fetched workouts for UserId: 28
+2025-05-13 09:52:01 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-13 09:52:01 - Successfully fetched workout with UserId: 28
+2025-05-13 09:52:40 - Attempting to add a new workout with image.
+2025-05-13 09:52:42 - Adding new workout to repository. Id: 0
+2025-05-13 09:52:42 - Executing stored procedure: usp_AddWorkout for UserId: 28
+2025-05-13 09:52:42 - Workout added successfully for UserId: 28
+2025-05-13 09:52:42 - Successfully added workout with Id: 0 to repository.
+2025-05-13 09:52:42 - Successfully added workout with Id: 0
+2025-05-13 09:52:43 - Fetching workout with UserId: 28
+2025-05-13 09:52:43 - Fetching workout with UserId: 28 from repository.
+2025-05-13 09:52:43 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 28
+2025-05-13 09:52:43 - Successfully fetched workouts for UserId: 28
+2025-05-13 09:52:43 - Successfully fetched workout with UserId: 28 from repository.
+2025-05-13 09:52:43 - Successfully fetched workout with UserId: 28
+2025-05-13 09:57:55 - Fetching workout with UserId: 23
+2025-05-13 09:57:55 - Fetching workout with UserId: 23 from repository.
+2025-05-13 09:57:55 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-13 09:57:55 - Successfully fetched workouts for UserId: 23
+2025-05-13 09:57:55 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-13 09:57:55 - Successfully fetched workout with UserId: 23
+2025-05-13 09:58:13 - Fetching workout with UserId: 23
+2025-05-13 09:58:13 - Fetching workout with UserId: 23 from repository.
+2025-05-13 09:58:13 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-13 09:58:13 - Successfully fetched workouts for UserId: 23
+2025-05-13 09:58:13 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-13 09:58:13 - Successfully fetched workout with UserId: 23
+2025-05-13 09:58:16 - Fetching workout with UserId: 23
+2025-05-13 09:58:16 - Fetching workout with UserId: 23 from repository.
+2025-05-13 09:58:16 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-13 09:58:16 - Successfully fetched workouts for UserId: 23
+2025-05-13 09:58:16 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-13 09:58:16 - Successfully fetched workout with UserId: 23
+2025-05-13 09:59:04 - Starting to fetch all workouts.
+2025-05-13 09:59:04 - Fetching all workouts from repository.
+2025-05-13 09:59:04 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-13 09:59:04 - Successfully fetched all workouts from database.
+2025-05-13 09:59:04 - Successfully fetched workouts from repository.
+2025-05-13 09:59:04 - Successfully fetched all workouts.
+2025-05-13 10:00:27 - Starting to fetch all workouts.
+2025-05-13 10:00:27 - Fetching all workouts from repository.
+2025-05-13 10:00:27 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-13 10:00:27 - Successfully fetched all workouts from database.
+2025-05-13 10:00:27 - Successfully fetched workouts from repository.
+2025-05-13 10:00:27 - Successfully fetched all workouts.
+2025-05-13 10:03:06 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-13T10:03:05.6056506Z"}
+2025-05-13 10:03:06 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-13 10:03:06 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:01:41 - Fetching workout with UserId: 30
+2025-05-14 09:01:41 - Fetching workout with UserId: 30 from repository.
+2025-05-14 09:01:41 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 30
+2025-05-14 09:01:42 - Successfully fetched workouts for UserId: 30
+2025-05-14 09:01:42 - Successfully fetched workout with UserId: 30 from repository.
+2025-05-14 09:01:42 - Successfully fetched workout with UserId: 30
+2025-05-14 09:01:46 - Fetching workout with UserId: 30
+2025-05-14 09:01:46 - Fetching workout with UserId: 30 from repository.
+2025-05-14 09:01:46 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 30
+2025-05-14 09:01:46 - Successfully fetched workouts for UserId: 30
+2025-05-14 09:01:46 - Successfully fetched workout with UserId: 30 from repository.
+2025-05-14 09:01:46 - Successfully fetched workout with UserId: 30
+2025-05-14 09:01:49 - Fetching workout with UserId: 30
+2025-05-14 09:01:49 - Fetching workout with UserId: 30 from repository.
+2025-05-14 09:01:49 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 30
+2025-05-14 09:01:49 - Successfully fetched workouts for UserId: 30
+2025-05-14 09:01:49 - Successfully fetched workout with UserId: 30 from repository.
+2025-05-14 09:01:49 - Successfully fetched workout with UserId: 30
+2025-05-14 09:01:58 - Fetching workout with UserId: 30
+2025-05-14 09:01:58 - Fetching workout with UserId: 30 from repository.
+2025-05-14 09:01:58 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 30
+2025-05-14 09:01:58 - Successfully fetched workouts for UserId: 30
+2025-05-14 09:01:58 - Successfully fetched workout with UserId: 30 from repository.
+2025-05-14 09:01:58 - Successfully fetched workout with UserId: 30
+2025-05-14 09:02:06 - Fetching workout with UserId: 23
+2025-05-14 09:02:06 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:02:06 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:02:06 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:02:06 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:02:06 - Successfully fetched workout with UserId: 23
+2025-05-14 09:02:48 - Starting to fetch all workouts.
+2025-05-14 09:02:48 - Fetching all workouts from repository.
+2025-05-14 09:02:48 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:02:48 - Successfully fetched all workouts from database.
+2025-05-14 09:02:48 - Successfully fetched workouts from repository.
+2025-05-14 09:02:48 - Successfully fetched all workouts.
+2025-05-14 09:04:47 - Starting to fetch all workouts.
+2025-05-14 09:04:47 - Fetching all workouts from repository.
+2025-05-14 09:04:47 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:04:47 - Successfully fetched all workouts from database.
+2025-05-14 09:04:47 - Successfully fetched workouts from repository.
+2025-05-14 09:04:47 - Successfully fetched all workouts.
+2025-05-14 09:06:52 - Starting to fetch all workouts.
+2025-05-14 09:06:52 - Fetching all workouts from repository.
+2025-05-14 09:06:52 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:06:52 - Successfully fetched all workouts from database.
+2025-05-14 09:06:52 - Successfully fetched workouts from repository.
+2025-05-14 09:06:52 - Successfully fetched all workouts.
+2025-05-14 09:06:54 - Starting to fetch all workouts.
+2025-05-14 09:06:54 - Fetching all workouts from repository.
+2025-05-14 09:06:54 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:06:54 - Successfully fetched all workouts from database.
+2025-05-14 09:06:54 - Successfully fetched workouts from repository.
+2025-05-14 09:06:54 - Successfully fetched all workouts.
+2025-05-14 09:07:49 - Starting to fetch all workouts.
+2025-05-14 09:07:49 - Fetching all workouts from repository.
+2025-05-14 09:07:49 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:07:49 - Successfully fetched all workouts from database.
+2025-05-14 09:07:49 - Successfully fetched workouts from repository.
+2025-05-14 09:07:49 - Successfully fetched all workouts.
+2025-05-14 09:07:53 - Starting to fetch all workouts.
+2025-05-14 09:07:53 - Fetching all workouts from repository.
+2025-05-14 09:07:53 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:07:53 - Successfully fetched all workouts from database.
+2025-05-14 09:07:53 - Successfully fetched workouts from repository.
+2025-05-14 09:07:53 - Successfully fetched all workouts.
+2025-05-14 09:08:15 - Starting to fetch all workouts.
+2025-05-14 09:08:15 - Fetching all workouts from repository.
+2025-05-14 09:08:15 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:08:15 - Successfully fetched all workouts from database.
+2025-05-14 09:08:15 - Successfully fetched workouts from repository.
+2025-05-14 09:08:15 - Successfully fetched all workouts.
+2025-05-14 09:08:16 - Received message: {"Action":"Deactivate User","UserId":30,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:08:13.3029744Z"}
+2025-05-14 09:08:16 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 30
+2025-05-14 09:08:16 - Successfully updated workouts IsActive status with Id: 30
+2025-05-14 09:08:21 - Received message: {"Action":"Activate User","UserId":30,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:08:20.1938614Z"}
+2025-05-14 09:08:21 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 30
+2025-05-14 09:08:21 - Successfully updated workouts IsActive status with Id: 30
+2025-05-14 09:08:22 - Starting to fetch all workouts.
+2025-05-14 09:08:22 - Fetching all workouts from repository.
+2025-05-14 09:08:22 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:08:22 - Successfully fetched all workouts from database.
+2025-05-14 09:08:22 - Successfully fetched workouts from repository.
+2025-05-14 09:08:22 - Successfully fetched all workouts.
+2025-05-14 09:08:26 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:08:21.8138608Z"}
+2025-05-14 09:08:26 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:08:26 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:08:33 - Starting to fetch all workouts.
+2025-05-14 09:08:33 - Fetching all workouts from repository.
+2025-05-14 09:08:33 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:08:33 - Successfully fetched all workouts from database.
+2025-05-14 09:08:33 - Successfully fetched workouts from repository.
+2025-05-14 09:08:33 - Successfully fetched all workouts.
+2025-05-14 09:08:35 - Starting to fetch all workouts.
+2025-05-14 09:08:35 - Fetching all workouts from repository.
+2025-05-14 09:08:35 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:08:35 - Successfully fetched all workouts from database.
+2025-05-14 09:08:35 - Successfully fetched workouts from repository.
+2025-05-14 09:08:35 - Successfully fetched all workouts.
+2025-05-14 09:08:52 - Fetching workout with UserId: 23
+2025-05-14 09:08:52 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:08:52 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:08:52 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:08:52 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:08:52 - Successfully fetched workout with UserId: 23
+2025-05-14 09:08:57 - Fetching workout with UserId: 23
+2025-05-14 09:08:57 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:08:57 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:08:58 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:08:58 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:08:58 - Successfully fetched workout with UserId: 23
+2025-05-14 09:08:59 - Fetching workout with UserId: 23
+2025-05-14 09:08:59 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:08:59 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:08:59 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:08:59 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:08:59 - Successfully fetched workout with UserId: 23
+2025-05-14 09:09:00 - Fetching workout with UserId: 23
+2025-05-14 09:09:00 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:09:00 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:09:00 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:09:00 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:09:00 - Successfully fetched workout with UserId: 23
+2025-05-14 09:09:06 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:09:03.2007605Z"}
+2025-05-14 09:09:06 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:09:06 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:09:11 - Starting to fetch all workouts.
+2025-05-14 09:09:11 - Fetching all workouts from repository.
+2025-05-14 09:09:11 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:09:11 - Successfully fetched all workouts from database.
+2025-05-14 09:09:11 - Successfully fetched workouts from repository.
+2025-05-14 09:09:11 - Successfully fetched all workouts.
+2025-05-14 09:09:16 - Starting to fetch all workouts.
+2025-05-14 09:09:16 - Fetching all workouts from repository.
+2025-05-14 09:09:16 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:09:16 - Successfully fetched all workouts from database.
+2025-05-14 09:09:16 - Successfully fetched workouts from repository.
+2025-05-14 09:09:16 - Successfully fetched all workouts.
+2025-05-14 09:09:17 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:09:15.7830194Z"}
+2025-05-14 09:09:17 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:09:17 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:09:27 - Starting to fetch all workouts.
+2025-05-14 09:09:27 - Fetching all workouts from repository.
+2025-05-14 09:09:27 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:09:27 - Successfully fetched all workouts from database.
+2025-05-14 09:09:27 - Successfully fetched workouts from repository.
+2025-05-14 09:09:27 - Successfully fetched all workouts.
+2025-05-14 09:09:37 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:09:32.7335431Z"}
+2025-05-14 09:09:37 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:09:37 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:09:42 - Starting to fetch all workouts.
+2025-05-14 09:09:42 - Fetching all workouts from repository.
+2025-05-14 09:09:42 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:09:42 - Successfully fetched all workouts from database.
+2025-05-14 09:09:42 - Successfully fetched workouts from repository.
+2025-05-14 09:09:42 - Successfully fetched all workouts.
+2025-05-14 09:09:52 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:09:51.6055268Z"}
+2025-05-14 09:09:52 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:09:52 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:09:53 - Starting to fetch all workouts.
+2025-05-14 09:09:53 - Fetching all workouts from repository.
+2025-05-14 09:09:53 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:09:53 - Successfully fetched all workouts from database.
+2025-05-14 09:09:53 - Successfully fetched workouts from repository.
+2025-05-14 09:09:53 - Successfully fetched all workouts.
+2025-05-14 09:10:09 - Starting to fetch all workouts.
+2025-05-14 09:10:09 - Fetching all workouts from repository.
+2025-05-14 09:10:09 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:10:09 - Successfully fetched all workouts from database.
+2025-05-14 09:10:09 - Successfully fetched workouts from repository.
+2025-05-14 09:10:09 - Successfully fetched all workouts.
+2025-05-14 09:10:12 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:10:08.5536663Z"}
+2025-05-14 09:10:12 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:10:12 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:10:22 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:10:19.7827665Z"}
+2025-05-14 09:10:22 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:10:22 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:10:23 - Starting to fetch all workouts.
+2025-05-14 09:10:23 - Fetching all workouts from repository.
+2025-05-14 09:10:23 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:10:23 - Successfully fetched all workouts from database.
+2025-05-14 09:10:23 - Successfully fetched workouts from repository.
+2025-05-14 09:10:23 - Successfully fetched all workouts.
+2025-05-14 09:10:32 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:10:31.1643269Z"}
+2025-05-14 09:10:32 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:10:32 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:10:34 - Starting to fetch all workouts.
+2025-05-14 09:10:34 - Fetching all workouts from repository.
+2025-05-14 09:10:34 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:10:34 - Successfully fetched all workouts from database.
+2025-05-14 09:10:34 - Successfully fetched workouts from repository.
+2025-05-14 09:10:34 - Successfully fetched all workouts.
+2025-05-14 09:10:43 - Starting to fetch all workouts.
+2025-05-14 09:10:43 - Fetching all workouts from repository.
+2025-05-14 09:10:43 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:10:43 - Successfully fetched all workouts from database.
+2025-05-14 09:10:43 - Successfully fetched workouts from repository.
+2025-05-14 09:10:43 - Successfully fetched all workouts.
+2025-05-14 09:10:47 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:10:42.7854734Z"}
+2025-05-14 09:10:47 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:10:47 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:11:02 - Starting to fetch all workouts.
+2025-05-14 09:11:02 - Fetching all workouts from repository.
+2025-05-14 09:11:02 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:11:02 - Successfully fetched all workouts from database.
+2025-05-14 09:11:02 - Successfully fetched workouts from repository.
+2025-05-14 09:11:02 - Successfully fetched all workouts.
+2025-05-14 09:11:09 - Starting to fetch all workouts.
+2025-05-14 09:11:09 - Fetching all workouts from repository.
+2025-05-14 09:11:09 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:11:09 - Successfully fetched all workouts from database.
+2025-05-14 09:11:09 - Successfully fetched workouts from repository.
+2025-05-14 09:11:09 - Successfully fetched all workouts.
+2025-05-14 09:11:12 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:11:07.6678802Z"}
+2025-05-14 09:11:12 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:11:12 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:11:17 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:11:15.4153396Z"}
+2025-05-14 09:11:17 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:11:17 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:11:17 - Starting to fetch all workouts.
+2025-05-14 09:11:17 - Fetching all workouts from repository.
+2025-05-14 09:11:17 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:11:17 - Successfully fetched all workouts from database.
+2025-05-14 09:11:17 - Successfully fetched workouts from repository.
+2025-05-14 09:11:17 - Successfully fetched all workouts.
+2025-05-14 09:11:27 - Starting to fetch all workouts.
+2025-05-14 09:11:27 - Fetching all workouts from repository.
+2025-05-14 09:11:27 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:11:27 - Successfully fetched all workouts from database.
+2025-05-14 09:11:27 - Successfully fetched workouts from repository.
+2025-05-14 09:11:27 - Successfully fetched all workouts.
+2025-05-14 09:11:32 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:11:31.5241851Z"}
+2025-05-14 09:11:32 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:11:32 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:11:36 - Starting to fetch all workouts.
+2025-05-14 09:11:36 - Fetching all workouts from repository.
+2025-05-14 09:11:36 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:11:36 - Successfully fetched all workouts from database.
+2025-05-14 09:11:36 - Successfully fetched workouts from repository.
+2025-05-14 09:11:36 - Successfully fetched all workouts.
+2025-05-14 09:11:42 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:11:42.1820038Z"}
+2025-05-14 09:11:42 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:11:42 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:11:43 - Starting to fetch all workouts.
+2025-05-14 09:11:43 - Fetching all workouts from repository.
+2025-05-14 09:11:43 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:11:43 - Successfully fetched all workouts from database.
+2025-05-14 09:11:43 - Successfully fetched workouts from repository.
+2025-05-14 09:11:43 - Successfully fetched all workouts.
+2025-05-14 09:12:00 - Starting to fetch all workouts.
+2025-05-14 09:12:00 - Fetching all workouts from repository.
+2025-05-14 09:12:00 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:12:00 - Successfully fetched all workouts from database.
+2025-05-14 09:12:00 - Successfully fetched workouts from repository.
+2025-05-14 09:12:00 - Successfully fetched all workouts.
+2025-05-14 09:12:02 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:11:58.872472Z"}
+2025-05-14 09:12:02 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:12:02 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:12:07 - Starting to fetch all workouts.
+2025-05-14 09:12:07 - Fetching all workouts from repository.
+2025-05-14 09:12:07 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:12:07 - Successfully fetched all workouts from database.
+2025-05-14 09:12:07 - Successfully fetched workouts from repository.
+2025-05-14 09:12:07 - Successfully fetched all workouts.
+2025-05-14 09:12:07 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:12:05.4546492Z"}
+2025-05-14 09:12:07 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:12:07 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:12:22 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:12:22.3793674Z"}
+2025-05-14 09:12:22 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:12:22 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:12:23 - Starting to fetch all workouts.
+2025-05-14 09:12:23 - Fetching all workouts from repository.
+2025-05-14 09:12:23 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:12:23 - Successfully fetched all workouts from database.
+2025-05-14 09:12:23 - Successfully fetched workouts from repository.
+2025-05-14 09:12:23 - Successfully fetched all workouts.
+2025-05-14 09:12:31 - Starting to fetch all workouts.
+2025-05-14 09:12:31 - Fetching all workouts from repository.
+2025-05-14 09:12:31 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:12:31 - Successfully fetched all workouts from database.
+2025-05-14 09:12:31 - Successfully fetched workouts from repository.
+2025-05-14 09:12:31 - Successfully fetched all workouts.
+2025-05-14 09:12:33 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:12:29.347074Z"}
+2025-05-14 09:12:33 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:12:33 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:13:00 - Starting to fetch all workouts.
+2025-05-14 09:13:00 - Fetching all workouts from repository.
+2025-05-14 09:13:00 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:13:00 - Successfully fetched all workouts from database.
+2025-05-14 09:13:00 - Successfully fetched workouts from repository.
+2025-05-14 09:13:00 - Successfully fetched all workouts.
+2025-05-14 09:13:09 - Starting to fetch all workouts.
+2025-05-14 09:13:09 - Fetching all workouts from repository.
+2025-05-14 09:13:09 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:13:09 - Successfully fetched all workouts from database.
+2025-05-14 09:13:09 - Successfully fetched workouts from repository.
+2025-05-14 09:13:09 - Successfully fetched all workouts.
+2025-05-14 09:14:29 - Starting to fetch all workouts.
+2025-05-14 09:14:29 - Fetching all workouts from repository.
+2025-05-14 09:14:29 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:14:29 - Successfully fetched all workouts from database.
+2025-05-14 09:14:29 - Successfully fetched workouts from repository.
+2025-05-14 09:14:29 - Successfully fetched all workouts.
+2025-05-14 09:14:33 - Received message: {"Action":"Deactivate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:14:33.2843422Z"}
+2025-05-14 09:14:33 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:14:33 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:14:33 - Starting to fetch all workouts.
+2025-05-14 09:14:33 - Fetching all workouts from repository.
+2025-05-14 09:14:33 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:14:34 - Successfully fetched all workouts from database.
+2025-05-14 09:14:34 - Successfully fetched workouts from repository.
+2025-05-14 09:14:34 - Successfully fetched all workouts.
+2025-05-14 09:14:37 - Starting to fetch all workouts.
+2025-05-14 09:14:37 - Fetching all workouts from repository.
+2025-05-14 09:14:37 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:14:37 - Successfully fetched all workouts from database.
+2025-05-14 09:14:37 - Successfully fetched workouts from repository.
+2025-05-14 09:14:37 - Successfully fetched all workouts.
+2025-05-14 09:14:38 - Received message: {"Action":"Activate User","UserId":28,"InitiatedByUserId":23,"ActionDateTime":"2025-05-14T09:14:36.702247Z"}
+2025-05-14 09:14:38 - Executing stored procedure: usp_UpdateWorkoutIsActive for Id: 28
+2025-05-14 09:14:38 - Successfully updated workouts IsActive status with Id: 28
+2025-05-14 09:14:47 - Starting to fetch all workouts.
+2025-05-14 09:14:47 - Fetching all workouts from repository.
+2025-05-14 09:14:47 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:14:47 - Successfully fetched all workouts from database.
+2025-05-14 09:14:47 - Successfully fetched workouts from repository.
+2025-05-14 09:14:47 - Successfully fetched all workouts.
+2025-05-14 09:16:38 - Fetching workout with UserId: 23
+2025-05-14 09:16:38 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:16:38 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:16:38 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:16:38 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:16:38 - Successfully fetched workout with UserId: 23
+2025-05-14 09:16:41 - Starting to fetch all workouts.
+2025-05-14 09:16:41 - Fetching all workouts from repository.
+2025-05-14 09:16:41 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:16:41 - Successfully fetched all workouts from database.
+2025-05-14 09:16:41 - Successfully fetched workouts from repository.
+2025-05-14 09:16:41 - Successfully fetched all workouts.
+2025-05-14 09:16:43 - Fetching workout with UserId: 23
+2025-05-14 09:16:43 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:16:43 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:16:43 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:16:43 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:16:43 - Successfully fetched workout with UserId: 23
+2025-05-14 09:16:48 - Fetching workout with UserId: 23
+2025-05-14 09:16:48 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:16:48 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:16:48 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:16:48 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:16:48 - Successfully fetched workout with UserId: 23
+2025-05-14 09:16:48 - Fetching workout with UserId: 23
+2025-05-14 09:16:48 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:16:48 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:16:48 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:16:48 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:16:48 - Successfully fetched workout with UserId: 23
+2025-05-14 09:16:48 - Fetching workout with UserId: 23
+2025-05-14 09:16:48 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:16:48 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:16:48 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:16:48 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:16:48 - Successfully fetched workout with UserId: 23
+2025-05-14 09:16:48 - Fetching workout with UserId: 23
+2025-05-14 09:16:48 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:16:48 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:16:48 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:16:48 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:16:48 - Successfully fetched workout with UserId: 23
+2025-05-14 09:16:48 - Fetching workout with UserId: 23
+2025-05-14 09:16:48 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:16:48 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:16:48 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:16:48 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:16:48 - Successfully fetched workout with UserId: 23
+2025-05-14 09:16:48 - Fetching workout with UserId: 23
+2025-05-14 09:16:48 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:16:48 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:16:48 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:16:48 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:16:48 - Successfully fetched workout with UserId: 23
+2025-05-14 09:16:48 - Fetching workout with UserId: 23
+2025-05-14 09:16:48 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:16:48 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:16:48 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:16:48 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:16:48 - Successfully fetched workout with UserId: 23
+2025-05-14 09:16:52 - Starting to fetch all workouts.
+2025-05-14 09:16:52 - Fetching all workouts from repository.
+2025-05-14 09:16:52 - Executing stored procedure: usp_GetAllWorkouts.
+2025-05-14 09:16:52 - Successfully fetched all workouts from database.
+2025-05-14 09:16:52 - Successfully fetched workouts from repository.
+2025-05-14 09:16:52 - Successfully fetched all workouts.
+2025-05-14 09:16:55 - Fetching workout with UserId: 23
+2025-05-14 09:16:55 - Fetching workout with UserId: 23 from repository.
+2025-05-14 09:16:55 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 09:16:55 - Successfully fetched workouts for UserId: 23
+2025-05-14 09:16:55 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 09:16:55 - Successfully fetched workout with UserId: 23
+2025-05-14 13:55:43 - Error while processing queue: Retry failed after 6 tries. Retry settings can be adjusted in ClientOptions.Retry or by configuring a custom retry policy in ClientOptions.RetryPolicy. (No connection could be made because the target machine actively refused it. (127.0.0.1:10001)) (No connection could be made because the target machine actively refused it. (127.0.0.1:10001)) (No connection could be made because the target machine actively refused it. (127.0.0.1:10001)) (No connection could be made because the target machine actively refused it. (127.0.0.1:10001)) (No connection could be made because the target machine actively refused it. (127.0.0.1:10001)) (No connection could be made because the target machine actively refused it. (127.0.0.1:10001))
+2025-05-14 13:56:31 - Fetching workout with UserId: 23
+2025-05-14 13:56:31 - Fetching workout with UserId: 23 from repository.
+2025-05-14 13:56:31 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 13:56:33 - Successfully fetched workouts for UserId: 23
+2025-05-14 13:56:33 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 13:56:33 - Successfully fetched workout with UserId: 23
+2025-05-14 13:56:34 - Fetching workout with UserId: 23
+2025-05-14 13:56:34 - Fetching workout with UserId: 23 from repository.
+2025-05-14 13:56:34 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 13:56:35 - Successfully fetched workouts for UserId: 23
+2025-05-14 13:56:35 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 13:56:35 - Successfully fetched workout with UserId: 23
+2025-05-14 13:56:36 - Fetching workout with UserId: 23
+2025-05-14 13:56:36 - Fetching workout with UserId: 23 from repository.
+2025-05-14 13:56:36 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-14 13:56:36 - Successfully fetched workouts for UserId: 23
+2025-05-14 13:56:36 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-14 13:56:36 - Successfully fetched workout with UserId: 23
+2025-05-14 13:56:46 - Starting to fetch all workouts.
+2025-05-14 13:56:46 - Fetching all workouts from repository.
+2025-05-14 13:56:46 - Executing stored procedure: usp_GetAllWorkouts
+2025-05-14 13:56:46 - Successfully fetched all workouts from database.
+2025-05-14 13:56:46 - Successfully fetched workouts from repository.
+2025-05-14 13:56:46 - Successfully fetched all workouts.
+2025-05-19 07:48:54 - Fetching workout with UserId: 23
+2025-05-19 07:48:54 - Fetching workout with UserId: 23 from repository.
+2025-05-19 07:48:54 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-19 07:48:56 - Successfully fetched workouts for UserId: 23
+2025-05-19 07:48:56 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-19 07:48:56 - Successfully fetched workout with UserId: 23
+2025-05-19 07:49:19 - Attempting to add a new workout with image.
+2025-05-19 07:49:20 - Error occurred while adding a new workout. Exception: Public access is not permitted on this storage account.
+RequestId:24cd0944-201e-001d-7b92-c846bb000000
+Time:2025-05-19T07:49:20.7641757Z
+Status: 409 (Public access is not permitted on this storage account.)
+ErrorCode: PublicAccessNotPermitted
+
+Content:
+﻿<?xml version="1.0" encoding="utf-8"?><Error><Code>PublicAccessNotPermitted</Code><Message>Public access is not permitted on this storage account.
+RequestId:24cd0944-201e-001d-7b92-c846bb000000
+Time:2025-05-19T07:49:20.7641757Z</Message></Error>
+
+Headers:
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: 24cd0944-201e-001d-7b92-c846bb000000
+x-ms-client-request-id: 99920347-5a4a-4005-a37e-49154f85d10e
+x-ms-version: 2025-05-05
+x-ms-error-code: PublicAccessNotPermitted
+Date: Mon, 19 May 2025 07:49:20 GMT
+Content-Length: 248
+Content-Type: application/xml
+ | StackTrace:    at Azure.Storage.Blobs.ContainerRestClient.SetAccessPolicyAsync(Nullable`1 timeout, String leaseId, Nullable`1 access, Nullable`1 ifModifiedSince, Nullable`1 ifUnmodifiedSince, IEnumerable`1 containerAcl, CancellationToken cancellationToken)
+   at Azure.Storage.Blobs.BlobContainerClient.SetAccessPolicyInternal(PublicAccessType accessType, IEnumerable`1 permissions, BlobRequestConditions conditions, Boolean async, CancellationToken cancellationToken)
+   at Azure.Storage.Blobs.BlobContainerClient.SetAccessPolicyAsync(PublicAccessType accessType, IEnumerable`1 permissions, BlobRequestConditions conditions, CancellationToken cancellationToken)
+   at WorkoutService.AzureServices.BlobService.UploadProgressImageAsync(IFormFile image) in C:\Users\harshit.patidar\Desktop\FitnessApp\WorkoutService\AzureServices\BlobService.cs:line 28
+   at WorkoutService.Controllers.WorkoutController.AddWorkout(WorkoutDto workoutDto, IFormFile image) in C:\Users\harshit.patidar\Desktop\FitnessApp\WorkoutService\Controllers\WorkoutsController.cs:line 96
+2025-05-19 07:49:41 - Attempting to add a new workout with image.
+2025-05-19 07:49:42 - Error occurred while adding a new workout. Exception: Public access is not permitted on this storage account.
+RequestId:24cd66ea-201e-001d-4f92-c846bb000000
+Time:2025-05-19T07:49:42.2012637Z
+Status: 409 (Public access is not permitted on this storage account.)
+ErrorCode: PublicAccessNotPermitted
+
+Content:
+﻿<?xml version="1.0" encoding="utf-8"?><Error><Code>PublicAccessNotPermitted</Code><Message>Public access is not permitted on this storage account.
+RequestId:24cd66ea-201e-001d-4f92-c846bb000000
+Time:2025-05-19T07:49:42.2012637Z</Message></Error>
+
+Headers:
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: 24cd66ea-201e-001d-4f92-c846bb000000
+x-ms-client-request-id: ea9e3e2a-adba-4c3e-9b2c-b9a7858241ae
+x-ms-version: 2025-05-05
+x-ms-error-code: PublicAccessNotPermitted
+Date: Mon, 19 May 2025 07:49:41 GMT
+Content-Length: 248
+Content-Type: application/xml
+ | StackTrace:    at Azure.Storage.Blobs.ContainerRestClient.SetAccessPolicyAsync(Nullable`1 timeout, String leaseId, Nullable`1 access, Nullable`1 ifModifiedSince, Nullable`1 ifUnmodifiedSince, IEnumerable`1 containerAcl, CancellationToken cancellationToken)
+   at Azure.Storage.Blobs.BlobContainerClient.SetAccessPolicyInternal(PublicAccessType accessType, IEnumerable`1 permissions, BlobRequestConditions conditions, Boolean async, CancellationToken cancellationToken)
+   at Azure.Storage.Blobs.BlobContainerClient.SetAccessPolicyAsync(PublicAccessType accessType, IEnumerable`1 permissions, BlobRequestConditions conditions, CancellationToken cancellationToken)
+   at WorkoutService.AzureServices.BlobService.UploadProgressImageAsync(IFormFile image) in C:\Users\harshit.patidar\Desktop\FitnessApp\WorkoutService\AzureServices\BlobService.cs:line 28
+   at WorkoutService.Controllers.WorkoutController.AddWorkout(WorkoutDto workoutDto, IFormFile image) in C:\Users\harshit.patidar\Desktop\FitnessApp\WorkoutService\Controllers\WorkoutsController.cs:line 96
+2025-05-19 07:50:11 - Attempting to add a new workout with image.
+2025-05-19 07:54:02 - Error occurred while adding a new workout. Exception: Public access is not permitted on this storage account.
+RequestId:24ce4641-201e-001d-6692-c846bb000000
+Time:2025-05-19T07:50:34.2868147Z
+Status: 409 (Public access is not permitted on this storage account.)
+ErrorCode: PublicAccessNotPermitted
+
+Content:
+﻿<?xml version="1.0" encoding="utf-8"?><Error><Code>PublicAccessNotPermitted</Code><Message>Public access is not permitted on this storage account.
+RequestId:24ce4641-201e-001d-6692-c846bb000000
+Time:2025-05-19T07:50:34.2868147Z</Message></Error>
+
+Headers:
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: 24ce4641-201e-001d-6692-c846bb000000
+x-ms-client-request-id: c9c97e53-ff4c-4859-8aa6-c80003cca89d
+x-ms-version: 2025-05-05
+x-ms-error-code: PublicAccessNotPermitted
+Date: Mon, 19 May 2025 07:50:34 GMT
+Content-Length: 248
+Content-Type: application/xml
+ | StackTrace:    at Azure.Storage.Blobs.ContainerRestClient.SetAccessPolicyAsync(Nullable`1 timeout, String leaseId, Nullable`1 access, Nullable`1 ifModifiedSince, Nullable`1 ifUnmodifiedSince, IEnumerable`1 containerAcl, CancellationToken cancellationToken)
+   at Azure.Storage.Blobs.BlobContainerClient.SetAccessPolicyInternal(PublicAccessType accessType, IEnumerable`1 permissions, BlobRequestConditions conditions, Boolean async, CancellationToken cancellationToken)
+   at Azure.Storage.Blobs.BlobContainerClient.SetAccessPolicyAsync(PublicAccessType accessType, IEnumerable`1 permissions, BlobRequestConditions conditions, CancellationToken cancellationToken)
+   at WorkoutService.AzureServices.BlobService.UploadProgressImageAsync(IFormFile image)
+   at WorkoutService.Controllers.WorkoutController.AddWorkout(WorkoutDto workoutDto, IFormFile image)
+2025-05-19 07:55:02 - Attempting to add a new workout with image.
+2025-05-19 07:55:12 - Adding new workout to repository. Id: 0
+2025-05-19 07:55:13 - Executing stored procedure: usp_AddWorkout for UserId: 23
+2025-05-19 07:55:14 - Workout added successfully for UserId: 23
+2025-05-19 07:55:14 - Successfully added workout with Id: 0 to repository.
+2025-05-19 07:55:14 - Successfully added workout with Id: 0
+2025-05-19 07:55:15 - Fetching workout with UserId: 23
+2025-05-19 07:55:15 - Fetching workout with UserId: 23 from repository.
+2025-05-19 07:55:15 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-19 07:55:16 - Successfully fetched workouts for UserId: 23
+2025-05-19 07:55:16 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-19 07:55:16 - Successfully fetched workout with UserId: 23
+2025-05-19 08:39:16 - Error while processing queue: Retry failed after 6 tries. Retry settings can be adjusted in ClientOptions.Retry or by configuring a custom retry policy in ClientOptions.RetryPolicy. (No such host is known. (fitnessapp.queue.core.windows.net:443)) (No such host is known. (fitnessapp.queue.core.windows.net:443)) (No such host is known. (fitnessapp.queue.core.windows.net:443)) (No such host is known. (fitnessapp.queue.core.windows.net:443)) (No such host is known. (fitnessapp.queue.core.windows.net:443)) (No such host is known. (fitnessapp.queue.core.windows.net:443))
+2025-05-19 09:01:28 - Fetching workout with UserId: 23
+2025-05-19 09:01:28 - Fetching workout with UserId: 23 from repository.
+2025-05-19 09:01:28 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-19 09:01:31 - Successfully fetched workouts for UserId: 23
+2025-05-19 09:01:31 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-19 09:01:31 - Successfully fetched workout with UserId: 23
+2025-05-19 09:29:01 - Error while processing queue: Retry failed after 6 tries. Retry settings can be adjusted in ClientOptions.Retry or by configuring a custom retry policy in ClientOptions.RetryPolicy. (No connection could be made because the target machine actively refused it. (127.0.0.1:10001)) (No connection could be made because the target machine actively refused it. (127.0.0.1:10001)) (No connection could be made because the target machine actively refused it. (127.0.0.1:10001)) (No connection could be made because the target machine actively refused it. (127.0.0.1:10001)) (No connection could be made because the target machine actively refused it. (127.0.0.1:10001)) (No connection could be made because the target machine actively refused it. (127.0.0.1:10001))
+2025-05-19 09:30:07 - Fetching workout with UserId: 23
+2025-05-19 09:30:07 - Fetching workout with UserId: 23 from repository.
+2025-05-19 09:30:07 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-19 09:30:11 - Successfully fetched workouts for UserId: 23
+2025-05-19 09:30:11 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-19 09:30:11 - Successfully fetched workout with UserId: 23
+2025-05-19 09:30:58 - Fetching workout with UserId: 23
+2025-05-19 09:30:58 - Fetching workout with UserId: 23 from repository.
+2025-05-19 09:30:58 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-19 09:30:58 - Successfully fetched workouts for UserId: 23
+2025-05-19 09:30:58 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-19 09:30:58 - Successfully fetched workout with UserId: 23
+2025-05-19 09:54:49 - Fetching workout with UserId: 23
+2025-05-19 09:54:49 - Fetching workout with UserId: 23 from repository.
+2025-05-19 09:54:49 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-19 09:54:49 - Successfully fetched workouts for UserId: 23
+2025-05-19 09:54:49 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-19 09:54:49 - Successfully fetched workout with UserId: 23
+2025-05-19 09:54:56 - Attempting to delete workout with Id: 41
+2025-05-19 09:54:56 - Fetching workout with Id: 41 from repository.
+2025-05-19 09:54:56 - Executing stored procedure: usp_GetWorkoutById for Id: 41
+2025-05-19 09:54:56 - Successfully fetched workout with Id: 41
+2025-05-19 09:54:56 - Successfully fetched workout with Id: 41 from repository.
+2025-05-19 09:54:56 - Deleting workout with Id: 41 from repository.
+2025-05-19 09:54:56 - Executing stored procedure: usp_DeleteWorkout for Id: 41
+2025-05-19 09:54:56 - Successfully deleted workout with Id: 41
+2025-05-19 09:54:56 - Successfully deleted workout with Id: 41 from repository.
+2025-05-19 09:54:56 - Successfully deleted workout with Id: 41
+2025-05-19 10:18:31 - Fetching workout with UserId: 23
+2025-05-19 10:18:31 - Fetching workout with UserId: 23 from repository.
+2025-05-19 10:18:31 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-19 10:18:32 - Successfully fetched workouts for UserId: 23
+2025-05-19 10:18:32 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-19 10:18:32 - Successfully fetched workout with UserId: 23
+2025-05-20 11:46:55 - Fetching workout with UserId: 23
+2025-05-20 11:46:55 - Fetching workout with UserId: 23 from repository.
+2025-05-20 11:46:56 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 11:47:03 - Successfully fetched workouts for UserId: 23
+2025-05-20 11:47:03 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 11:47:04 - Successfully fetched workout with UserId: 23
+2025-05-20 12:08:11 - Fetching workout with UserId: 23
+2025-05-20 12:08:11 - Fetching workout with UserId: 23 from repository.
+2025-05-20 12:08:11 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 12:08:14 - Successfully fetched workouts for UserId: 23
+2025-05-20 12:08:14 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 12:08:14 - Successfully fetched workout with UserId: 23
+2025-05-20 12:08:15 - Fetching workout with UserId: 23
+2025-05-20 12:08:15 - Fetching workout with UserId: 23 from repository.
+2025-05-20 12:08:15 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 12:08:15 - Successfully fetched workouts for UserId: 23
+2025-05-20 12:08:15 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 12:08:15 - Successfully fetched workout with UserId: 23
+2025-05-20 12:08:42 - Attempting to update workout with Id: 36
+2025-05-20 12:08:42 - Updating workout with Id: 36 in repository.
+2025-05-20 12:08:42 - Executing stored procedure: usp_UpdateWorkout for Id: 36
+2025-05-20 12:08:42 - Successfully updated workout with Id: 36
+2025-05-20 12:08:42 - Successfully updated workout with Id: 36 in repository.
+2025-05-20 12:08:42 - Successfully updated workout with Id: 36
+2025-05-20 12:08:46 - Attempting to update workout with Id: 37
+2025-05-20 12:08:46 - Updating workout with Id: 37 in repository.
+2025-05-20 12:08:46 - Executing stored procedure: usp_UpdateWorkout for Id: 37
+2025-05-20 12:08:46 - Successfully updated workout with Id: 37
+2025-05-20 12:08:46 - Successfully updated workout with Id: 37 in repository.
+2025-05-20 12:08:46 - Successfully updated workout with Id: 37
+2025-05-20 12:09:39 - Attempting to update workout with Id: 36
+2025-05-20 12:09:39 - Updating workout with Id: 36 in repository.
+2025-05-20 12:09:39 - Executing stored procedure: usp_UpdateWorkout for Id: 36
+2025-05-20 12:09:39 - Successfully updated workout with Id: 36
+2025-05-20 12:09:39 - Successfully updated workout with Id: 36 in repository.
+2025-05-20 12:09:39 - Successfully updated workout with Id: 36
+2025-05-20 12:14:35 - Fetching workout with UserId: 23
+2025-05-20 12:14:35 - Fetching workout with UserId: 23 from repository.
+2025-05-20 12:14:35 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 12:14:35 - Successfully fetched workouts for UserId: 23
+2025-05-20 12:14:35 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 12:14:35 - Successfully fetched workout with UserId: 23
+2025-05-20 12:15:06 - Fetching workout with UserId: 23
+2025-05-20 12:15:06 - Fetching workout with UserId: 23 from repository.
+2025-05-20 12:15:06 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 12:15:06 - Successfully fetched workouts for UserId: 23
+2025-05-20 12:15:06 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 12:15:06 - Successfully fetched workout with UserId: 23
+2025-05-20 12:15:27 - Attempting to update workout with Id: 36
+2025-05-20 12:15:27 - Updating workout with Id: 36 in repository.
+2025-05-20 12:15:27 - Executing stored procedure: usp_UpdateWorkout for Id: 36
+2025-05-20 12:15:27 - Successfully updated workout with Id: 36
+2025-05-20 12:15:27 - Successfully updated workout with Id: 36 in repository.
+2025-05-20 12:15:27 - Successfully updated workout with Id: 36
+2025-05-20 12:15:31 - Attempting to update workout with Id: 37
+2025-05-20 12:15:31 - Updating workout with Id: 37 in repository.
+2025-05-20 12:15:31 - Executing stored procedure: usp_UpdateWorkout for Id: 37
+2025-05-20 12:15:31 - Successfully updated workout with Id: 37
+2025-05-20 12:15:31 - Successfully updated workout with Id: 37 in repository.
+2025-05-20 12:15:31 - Successfully updated workout with Id: 37
+2025-05-20 12:15:45 - Attempting to update workout with Id: 37
+2025-05-20 12:15:45 - Updating workout with Id: 37 in repository.
+2025-05-20 12:15:45 - Executing stored procedure: usp_UpdateWorkout for Id: 37
+2025-05-20 12:15:45 - Successfully updated workout with Id: 37
+2025-05-20 12:15:45 - Successfully updated workout with Id: 37 in repository.
+2025-05-20 12:15:45 - Successfully updated workout with Id: 37
+2025-05-20 12:23:07 - Fetching workout with UserId: 23
+2025-05-20 12:23:07 - Fetching workout with UserId: 23 from repository.
+2025-05-20 12:23:07 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 12:23:07 - Successfully fetched workouts for UserId: 23
+2025-05-20 12:23:07 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 12:23:07 - Successfully fetched workout with UserId: 23
+2025-05-20 12:23:13 - Fetching workout with UserId: 23
+2025-05-20 12:23:13 - Fetching workout with UserId: 23 from repository.
+2025-05-20 12:23:13 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 12:23:13 - Successfully fetched workouts for UserId: 23
+2025-05-20 12:23:13 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 12:23:13 - Successfully fetched workout with UserId: 23
+2025-05-20 12:23:14 - Fetching workout with UserId: 23
+2025-05-20 12:23:14 - Fetching workout with UserId: 23 from repository.
+2025-05-20 12:23:14 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 12:23:14 - Successfully fetched workouts for UserId: 23
+2025-05-20 12:23:14 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 12:23:14 - Successfully fetched workout with UserId: 23
+2025-05-20 12:23:15 - Fetching workout with UserId: 23
+2025-05-20 12:23:15 - Fetching workout with UserId: 23 from repository.
+2025-05-20 12:23:15 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 12:23:15 - Successfully fetched workouts for UserId: 23
+2025-05-20 12:23:15 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 12:23:15 - Successfully fetched workout with UserId: 23
+2025-05-20 12:29:29 - Fetching workout with UserId: 23
+2025-05-20 12:29:29 - Fetching workout with UserId: 23 from repository.
+2025-05-20 12:29:29 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 12:29:29 - Successfully fetched workouts for UserId: 23
+2025-05-20 12:29:29 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 12:29:29 - Successfully fetched workout with UserId: 23
+2025-05-20 12:29:31 - Fetching workout with UserId: 23
+2025-05-20 12:29:31 - Fetching workout with UserId: 23 from repository.
+2025-05-20 12:29:31 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 12:29:31 - Successfully fetched workouts for UserId: 23
+2025-05-20 12:29:31 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 12:29:31 - Successfully fetched workout with UserId: 23
+2025-05-20 12:30:36 - Attempting to update workout with Id: 39
+2025-05-20 12:30:36 - Updating workout with Id: 39 in repository.
+2025-05-20 12:30:36 - Executing stored procedure: usp_UpdateWorkout for Id: 39
+2025-05-20 12:30:36 - Successfully updated workout with Id: 39
+2025-05-20 12:30:36 - Successfully updated workout with Id: 39 in repository.
+2025-05-20 12:30:36 - Successfully updated workout with Id: 39
+2025-05-20 12:31:02 - Attempting to update workout with Id: 39
+2025-05-20 12:31:02 - Updating workout with Id: 39 in repository.
+2025-05-20 12:31:02 - Executing stored procedure: usp_UpdateWorkout for Id: 39
+2025-05-20 12:31:02 - Successfully updated workout with Id: 39
+2025-05-20 12:31:02 - Successfully updated workout with Id: 39 in repository.
+2025-05-20 12:31:02 - Successfully updated workout with Id: 39
+2025-05-20 12:31:23 - Attempting to update workout with Id: 39
+2025-05-20 12:31:23 - Updating workout with Id: 39 in repository.
+2025-05-20 12:31:23 - Executing stored procedure: usp_UpdateWorkout for Id: 39
+2025-05-20 12:31:23 - Successfully updated workout with Id: 39
+2025-05-20 12:31:23 - Successfully updated workout with Id: 39 in repository.
+2025-05-20 12:31:23 - Successfully updated workout with Id: 39
+2025-05-20 12:35:24 - Fetching workout with UserId: 23
+2025-05-20 12:35:24 - Fetching workout with UserId: 23 from repository.
+2025-05-20 12:35:24 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 12:35:24 - Successfully fetched workouts for UserId: 23
+2025-05-20 12:35:24 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 12:35:24 - Successfully fetched workout with UserId: 23
+2025-05-20 12:37:57 - Fetching workout with UserId: 23
+2025-05-20 12:37:57 - Fetching workout with UserId: 23 from repository.
+2025-05-20 12:37:57 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 12:37:58 - Successfully fetched workouts for UserId: 23
+2025-05-20 12:37:58 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 12:37:58 - Successfully fetched workout with UserId: 23
+2025-05-20 12:44:44 - Fetching workout with UserId: 23
+2025-05-20 12:44:44 - Fetching workout with UserId: 23 from repository.
+2025-05-20 12:44:44 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 12:44:45 - Successfully fetched workouts for UserId: 23
+2025-05-20 12:44:45 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 12:44:45 - Successfully fetched workout with UserId: 23
+2025-05-20 12:44:54 - Fetching workout with UserId: 23
+2025-05-20 12:44:54 - Fetching workout with UserId: 23 from repository.
+2025-05-20 12:44:54 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 12:44:54 - Successfully fetched workouts for UserId: 23
+2025-05-20 12:44:54 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 12:44:54 - Successfully fetched workout with UserId: 23
+2025-05-20 13:37:46 - Fetching workout with UserId: 23
+2025-05-20 13:37:46 - Fetching workout with UserId: 23 from repository.
+2025-05-20 13:37:46 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 13:37:46 - Successfully fetched workouts for UserId: 23
+2025-05-20 13:37:46 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 13:37:46 - Successfully fetched workout with UserId: 23
+2025-05-20 13:42:37 - Fetching workout with UserId: 23
+2025-05-20 13:42:37 - Fetching workout with UserId: 23 from repository.
+2025-05-20 13:42:37 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 13:42:38 - Successfully fetched workouts for UserId: 23
+2025-05-20 13:42:38 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 13:42:38 - Successfully fetched workout with UserId: 23
+2025-05-20 13:43:03 - Fetching workout with UserId: 23
+2025-05-20 13:43:03 - Fetching workout with UserId: 23 from repository.
+2025-05-20 13:43:03 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 13:43:03 - Successfully fetched workouts for UserId: 23
+2025-05-20 13:43:03 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 13:43:03 - Successfully fetched workout with UserId: 23
+2025-05-20 13:43:11 - Fetching workout with UserId: 23
+2025-05-20 13:43:11 - Fetching workout with UserId: 23 from repository.
+2025-05-20 13:43:11 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 13:43:11 - Successfully fetched workouts for UserId: 23
+2025-05-20 13:43:11 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 13:43:11 - Successfully fetched workout with UserId: 23
+2025-05-20 13:44:04 - Attempting to add a new workout with image.
+2025-05-20 13:44:04 - Adding new workout to repository. Id: 0
+2025-05-20 13:44:04 - Executing stored procedure: usp_AddWorkout for UserId: 23
+2025-05-20 13:44:04 - Workout added successfully for UserId: 23
+2025-05-20 13:44:04 - Successfully added workout with Id: 0 to repository.
+2025-05-20 13:44:04 - Successfully added workout with Id: 0
+2025-05-20 13:44:05 - Fetching workout with UserId: 23
+2025-05-20 13:44:05 - Fetching workout with UserId: 23 from repository.
+2025-05-20 13:44:05 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 13:44:05 - Successfully fetched workouts for UserId: 23
+2025-05-20 13:44:05 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 13:44:05 - Successfully fetched workout with UserId: 23
+2025-05-20 13:44:24 - Attempting to add a new workout with image.
+2025-05-20 13:44:24 - Adding new workout to repository. Id: 0
+2025-05-20 13:44:24 - Executing stored procedure: usp_AddWorkout for UserId: 23
+2025-05-20 13:44:24 - Workout added successfully for UserId: 23
+2025-05-20 13:44:24 - Successfully added workout with Id: 0 to repository.
+2025-05-20 13:44:24 - Successfully added workout with Id: 0
+2025-05-20 13:44:26 - Fetching workout with UserId: 23
+2025-05-20 13:44:26 - Fetching workout with UserId: 23 from repository.
+2025-05-20 13:44:26 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 13:44:26 - Successfully fetched workouts for UserId: 23
+2025-05-20 13:44:26 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 13:44:26 - Successfully fetched workout with UserId: 23
+2025-05-20 13:44:41 - Attempting to add a new workout with image.
+2025-05-20 13:44:41 - Adding new workout to repository. Id: 0
+2025-05-20 13:44:41 - Executing stored procedure: usp_AddWorkout for UserId: 23
+2025-05-20 13:44:41 - Workout added successfully for UserId: 23
+2025-05-20 13:44:41 - Successfully added workout with Id: 0 to repository.
+2025-05-20 13:44:41 - Successfully added workout with Id: 0
+2025-05-20 13:44:42 - Fetching workout with UserId: 23
+2025-05-20 13:44:42 - Fetching workout with UserId: 23 from repository.
+2025-05-20 13:44:42 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 13:44:42 - Successfully fetched workouts for UserId: 23
+2025-05-20 13:44:42 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 13:44:42 - Successfully fetched workout with UserId: 23
+2025-05-20 13:45:02 - Attempting to add a new workout with image.
+2025-05-20 13:45:02 - Adding new workout to repository. Id: 0
+2025-05-20 13:45:02 - Executing stored procedure: usp_AddWorkout for UserId: 23
+2025-05-20 13:45:02 - Workout added successfully for UserId: 23
+2025-05-20 13:45:02 - Successfully added workout with Id: 0 to repository.
+2025-05-20 13:45:02 - Successfully added workout with Id: 0
+2025-05-20 13:45:03 - Fetching workout with UserId: 23
+2025-05-20 13:45:03 - Fetching workout with UserId: 23 from repository.
+2025-05-20 13:45:03 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 13:45:03 - Successfully fetched workouts for UserId: 23
+2025-05-20 13:45:03 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 13:45:03 - Successfully fetched workout with UserId: 23
+2025-05-20 13:45:24 - Attempting to add a new workout with image.
+2025-05-20 13:45:24 - Adding new workout to repository. Id: 0
+2025-05-20 13:45:24 - Executing stored procedure: usp_AddWorkout for UserId: 23
+2025-05-20 13:45:24 - Workout added successfully for UserId: 23
+2025-05-20 13:45:24 - Successfully added workout with Id: 0 to repository.
+2025-05-20 13:45:24 - Successfully added workout with Id: 0
+2025-05-20 13:45:25 - Fetching workout with UserId: 23
+2025-05-20 13:45:25 - Fetching workout with UserId: 23 from repository.
+2025-05-20 13:45:25 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 13:45:25 - Successfully fetched workouts for UserId: 23
+2025-05-20 13:45:25 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 13:45:25 - Successfully fetched workout with UserId: 23
+2025-05-20 13:45:38 - Attempting to add a new workout with image.
+2025-05-20 13:45:38 - Adding new workout to repository. Id: 0
+2025-05-20 13:45:38 - Executing stored procedure: usp_AddWorkout for UserId: 23
+2025-05-20 13:45:38 - Workout added successfully for UserId: 23
+2025-05-20 13:45:38 - Successfully added workout with Id: 0 to repository.
+2025-05-20 13:45:38 - Successfully added workout with Id: 0
+2025-05-20 13:45:39 - Fetching workout with UserId: 23
+2025-05-20 13:45:39 - Fetching workout with UserId: 23 from repository.
+2025-05-20 13:45:39 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 13:45:39 - Successfully fetched workouts for UserId: 23
+2025-05-20 13:45:39 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 13:45:39 - Successfully fetched workout with UserId: 23
+2025-05-20 13:45:49 - Attempting to add a new workout with image.
+2025-05-20 13:45:49 - Adding new workout to repository. Id: 0
+2025-05-20 13:45:49 - Executing stored procedure: usp_AddWorkout for UserId: 23
+2025-05-20 13:45:49 - Workout added successfully for UserId: 23
+2025-05-20 13:45:49 - Successfully added workout with Id: 0 to repository.
+2025-05-20 13:45:49 - Successfully added workout with Id: 0
+2025-05-20 13:45:50 - Fetching workout with UserId: 23
+2025-05-20 13:45:50 - Fetching workout with UserId: 23 from repository.
+2025-05-20 13:45:50 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 13:45:50 - Successfully fetched workouts for UserId: 23
+2025-05-20 13:45:50 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 13:45:50 - Successfully fetched workout with UserId: 23
+2025-05-20 13:55:19 - Attempting to update workout with Id: 37
+2025-05-20 13:55:19 - Updating workout with Id: 37 in repository.
+2025-05-20 13:55:19 - Executing stored procedure: usp_UpdateWorkout for Id: 37
+2025-05-20 13:55:20 - Successfully updated workout with Id: 37
+2025-05-20 13:55:20 - Successfully updated workout with Id: 37 in repository.
+2025-05-20 13:55:20 - Successfully updated workout with Id: 37
+2025-05-20 14:02:32 - Fetching workout with UserId: 23
+2025-05-20 14:02:32 - Fetching workout with UserId: 23 from repository.
+2025-05-20 14:02:32 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 14:02:32 - Successfully fetched workouts for UserId: 23
+2025-05-20 14:02:32 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 14:02:32 - Successfully fetched workout with UserId: 23
+2025-05-20 14:02:34 - Fetching workout with UserId: 23
+2025-05-20 14:02:34 - Fetching workout with UserId: 23 from repository.
+2025-05-20 14:02:34 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 14:02:34 - Successfully fetched workouts for UserId: 23
+2025-05-20 14:02:34 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 14:02:34 - Successfully fetched workout with UserId: 23
+2025-05-20 14:05:37 - Fetching workout with UserId: 23
+2025-05-20 14:05:37 - Fetching workout with UserId: 23 from repository.
+2025-05-20 14:05:37 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 14:05:38 - Successfully fetched workouts for UserId: 23
+2025-05-20 14:05:38 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 14:05:38 - Successfully fetched workout with UserId: 23
+2025-05-20 14:06:15 - Fetching workout with UserId: 23
+2025-05-20 14:06:15 - Fetching workout with UserId: 23 from repository.
+2025-05-20 14:06:15 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 14:06:15 - Successfully fetched workouts for UserId: 23
+2025-05-20 14:06:15 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 14:06:15 - Successfully fetched workout with UserId: 23
+2025-05-20 14:06:44 - Fetching workout with UserId: 23
+2025-05-20 14:06:44 - Fetching workout with UserId: 23 from repository.
+2025-05-20 14:06:44 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 14:06:44 - Successfully fetched workouts for UserId: 23
+2025-05-20 14:06:44 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 14:06:44 - Successfully fetched workout with UserId: 23
+2025-05-20 14:07:15 - Fetching workout with UserId: 23
+2025-05-20 14:07:15 - Fetching workout with UserId: 23 from repository.
+2025-05-20 14:07:15 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 14:07:15 - Successfully fetched workouts for UserId: 23
+2025-05-20 14:07:15 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 14:07:15 - Successfully fetched workout with UserId: 23
+2025-05-20 14:07:52 - Fetching workout with UserId: 23
+2025-05-20 14:07:52 - Fetching workout with UserId: 23 from repository.
+2025-05-20 14:07:52 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 14:07:52 - Successfully fetched workouts for UserId: 23
+2025-05-20 14:07:52 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 14:07:52 - Successfully fetched workout with UserId: 23
+2025-05-20 14:44:10 - Fetching workout with UserId: 23
+2025-05-20 14:44:10 - Fetching workout with UserId: 23 from repository.
+2025-05-20 14:44:10 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 14:44:11 - Successfully fetched workouts for UserId: 23
+2025-05-20 14:44:11 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 14:44:11 - Successfully fetched workout with UserId: 23
+2025-05-20 14:44:58 - Fetching workout with UserId: 23
+2025-05-20 14:44:58 - Fetching workout with UserId: 23 from repository.
+2025-05-20 14:44:58 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 14:44:58 - Successfully fetched workouts for UserId: 23
+2025-05-20 14:44:58 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 14:44:58 - Successfully fetched workout with UserId: 23
+2025-05-20 14:45:02 - Starting to fetch all workouts.
+2025-05-20 14:45:03 - Fetching all workouts from repository.
+2025-05-20 14:45:03 - Executing stored procedure: usp_GetAllWorkouts
+2025-05-20 14:45:03 - Successfully fetched all workouts from database.
+2025-05-20 14:45:03 - Successfully fetched workouts from repository.
+2025-05-20 14:45:03 - Successfully fetched all workouts.
+2025-05-20 14:45:27 - Fetching workout with UserId: 23
+2025-05-20 14:45:27 - Fetching workout with UserId: 23 from repository.
+2025-05-20 14:45:27 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 14:45:27 - Successfully fetched workouts for UserId: 23
+2025-05-20 14:45:27 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 14:45:27 - Successfully fetched workout with UserId: 23
+2025-05-20 14:45:31 - Starting to fetch all workouts.
+2025-05-20 14:45:31 - Fetching all workouts from repository.
+2025-05-20 14:45:31 - Executing stored procedure: usp_GetAllWorkouts
+2025-05-20 14:45:31 - Successfully fetched all workouts from database.
+2025-05-20 14:45:31 - Successfully fetched workouts from repository.
+2025-05-20 14:45:31 - Successfully fetched all workouts.
+2025-05-20 14:45:47 - Fetching workout with UserId: 23
+2025-05-20 14:45:47 - Fetching workout with UserId: 23 from repository.
+2025-05-20 14:45:47 - Executing stored procedure: usp_GetWorkoutsByUserId for UserId: 23
+2025-05-20 14:45:47 - Successfully fetched workouts for UserId: 23
+2025-05-20 14:45:47 - Successfully fetched workout with UserId: 23 from repository.
+2025-05-20 14:45:47 - Successfully fetched workout with UserId: 23
